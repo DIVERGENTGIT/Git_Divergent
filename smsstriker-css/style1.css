@@ -1,0 +1,47 @@
+
+.scroller-nav {
+  position: fixed;
+  z-index: 9;
+  top: 50%;
+  right: 1%;
+ padding: 20px 10px;
+ list-style: none;
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+}
+.scroller-nav  li {padding-bottom:28px;}
+.scroller-nav a {
+display: block;
+position: relative;
+width: 90px;
+font-size: 11px;
+margin: 16px auto;
+}
+.scroller-nav a:after {
+position:absolute;content:'';width:35px;height:35px;background: url('../smsstriker-img/empty-icon.png') #bbbdbf no-repeat;
+background-position:13px;background-size:10px;
+border-radius: 50%;
+        top: -40px;
+    left: 24px;
+}
+.scroller-nav li a.current:after  { position:absolute;content:'';background: url('../smsstriker-img/empty-icon.png') #d1514e no-repeat;
+background-position:16px;background-size:13px;height: 45px;
+  width: 45px;    top: -51px;
+    left: 19px;}
+.scroller-nav li a.current{color:#D1514E;}
+#web-shorturl, #image-shorturl{padding-top:50px;padding-bottom:50px;}
+#video-shorturl, #audio-shorturl{padding-top:50px;padding-bottom:0px;}
+#web-shorturl, #video-shorturl { background-color: #F1F1F2;}
+#image-shorturl, #audio-shorturl{ background-color: #fff;}
+.parallex {
+  background-attachment: fixed !important;
+  background-position: center center;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  width: 100%;
+  min-height: 500px;
+}
+

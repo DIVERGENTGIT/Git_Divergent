@@ -1,0 +1,1594 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+
+<!--<![endif]-->
+<html lang="en">
+<head>
+<meta name="language" content="en-uk, english">
+<meta content="text/html; charset=utf-8" http-equiv=Content-Type>
+<meta content="width=device-width,initial-scale=1" name=viewport>
+<meta content=no-cache http-equiv=pragma>
+<meta content="IE=edge" http-equiv=X-UA-Compatible>
+<meta content="SMS STRIKER is Best Bulk SMS Service Provider in India, provides Transactional & Promotional routes for businesses. As Bulk SMS Provider in India offer competitive price." name=description>
+<meta content="bulk sms service provider, Promotional sms service,transactional sms service
+      " name=keywords>
+<link rel="icon" href="smsstriker-img/fevicon.png" type="image/png" sizes="16x16"> 
+<title>Best Bulk Sms Service Provider in India - Smsstriker.com</title>
+
+<noscript id="deferred-styles">
+
+</noscript>
+<link href="smsstriker-css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="smsstriker-css/style.css" rel="stylesheet" type="text/css">
+
+
+
+
+<script> 
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68950345-2', 'auto');
+  ga('send', 'pageview');
+</script>
+ 
+<!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+</head>
+<body>
+
+<header>
+  <div class="padding-zero main-header">
+    <div class="container01 main-nav" data-include=nav></div>
+    <div class="padding-zero slide-top">
+      <div class="carousel slide carousel-fade" id=carousel data-ride=carousel>
+        <ol class=carousel-indicators>
+          <li class=active data-slide-to=0 data-target=#carousel>
+          <li data-slide-to=1 data-target=#carousel>
+          <li data-slide-to=2 data-target=#carousel>
+          <li data-slide-to=3 data-target=#carousel>
+        </ol>
+        <div class="carousel-inner carousel-zoom">
+          <div class="active item"> <img alt="Big Leaps in
+                        Customer Engagement" src=smsstriker-img/index-slide4.jpg width=1920 class="img-responsive center-block">
+            <div class=carousel-caption>
+              <div class="col-xs-12 col-sm-12 col-md-12 padding-zero slide-bottom"><a href=register.html>Free Trail</a></div>
+            </div>
+          </div>
+          <div class="item engage"> <img alt="Engage your Customer
+                        for Desired Results" src=smsstriker-img/index-slide2.jpg width=1920 class="img-responsive pull-left">
+            <p>Engage your Customer<br>
+              for Desired Results</p>
+            <div class=carousel-caption>
+              <div class="col-xs-12 col-sm-12 col-md-12 padding-zero slide-bottom"><a href=register.html>Free Trail</a></div>            </div>
+          </div>
+          <div class="item big-leaps"> <img alt="Big Leaps in
+                        Customer Engagement" src=smsstriker-img/index-slide3.jpg width=1920 class="img-responsive center-block">
+            <p>Big Leaps in<br>
+              Customer Engagement</p>
+            <div class=carousel-caption>
+              <div class="col-xs-12 col-sm-12 col-md-12 padding-zero slide-bottom"><a href=register.html>Free Trail</a></div>            </div>
+          </div>
+          <div class=item> <img alt="Enhance your Business reach" src=smsstriker-img/index-slide1.jpg width=1920 class="img-responsive pull-right">
+            <h4>The Most Powerful<br>
+              Communication Tools to<br>
+              Enhance your Business reach</h4>
+            <div class=carousel-caption>
+                           <div class="col-xs-12 col-sm-12 col-md-12 padding-zero slide-bottom"><a href=register.html>Free Trail</a></div>
+            </div>
+          </div>
+        </div>
+        <a href=#carousel class="carousel-control left" data-slide=prev>‹</a> <a href=#carousel class="carousel-control right" data-slide=next>›</a> </div>
+    </div>
+  </div>
+</header>
+<!--about us part-->
+<article class="col-xs-12 col-sm-12 col-md-12 padding-zero about-homediv">
+  <section class=container01>
+    <div class="col-xs-12 padding-zero col-md-2 col-sm-2 left-about-striker"><img alt="7 years smsstriker" src=smsstriker-img/7-years-smsstriker.jpg width=178 class="img-responsive center-block"></div>
+    <section class="col-xs-12 col-md-8 about-middel col-sm-8">
+      <h4 class=about-home>ABOUT US</h4>
+      <h4 class=about-sub-tit>Innovative Technology-based Solutions</h4>
+      <p class=text-center>Striker Soft Solutions Pvt Limited incepted in the year 2009, since then pioneered in serving the clients and providing various solutions. Striker has created its own emblem as SMS Service Provider for its services and could acquired more than 3000 clients across all the industries. Headquartered in Hyderabad with branches in Bangalore and Chennai locations. SMS Striker is aspiring to have three more branches in Mumbai, Pune and Delhi.</p>
+      <a href=about-us.html class=abt-more>More</a> </section>
+    <div class="col-xs-12 padding-zero col-md-2 col-sm-2 right-about-striker"><img alt="award deloitte sms striker" src=smsstriker-img/award-deloitte-smsstriker.jpg width=178 class="img-responsive center-block"></div>
+  </section>
+</article>
+
+<!-- services part-->
+<article class="col-xs-12 col-sm-12 col-md-12 padding-zero bgwhite services-homediv">
+  <section class=container01>
+    <div class="col-xs-12 col-sm-12 col-md-12">
+      <h4 class=servic-home-tit>SERVICES</h4>
+    </div>
+    <div class="col-xs-12 col-md-4 col-sm-6 bulksms-onclk">
+      <div class=service-border> <img alt="Bulk sms service provider in India" src=smsstriker-img/bulk-smsservices.png class="img-responsive autoimg" id=smsservice01>
+        <div class="header-title service-list-title">Bulk SMS</div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-md-4 col-sm-6 longcode-onclk">
+      <div class=service-border> <img alt="Long Code Bulk Sms Service" src=smsstriker-img/longcode-smsservices.png class="img-responsive autoimg" id=smsservice02>
+        <div class="header-title service-list-title">Long Code</div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-sm-offset-3 col-md-offset-0 col-md-4 col-lg-4 shorturl-onclk">
+      <div class=service-border> <img alt="Short Url Bulk sms Service" src=smsstriker-img/shorturl-smsservices.png class="img-responsive autoimg" id=smsservice03>
+        <div class="header-title service-list-title">Short URL</div>
+      </div>
+    </div>
+    <div>
+      <div class="col-xs-12 padding-zero col-sm-9 col-md-9 bulksmsexpdiv">
+        <div class=services-border>
+          <div class="col-xs-12 col-sm-12 col-md-12">
+            <div class=serviceicondiv>
+              <div class="header-title service-subtitle">Bulk SMS</div>
+            </div>
+          </div>
+          <div class="col-xs-12 col-sm-12 col-md-12 service-topdiv">
+            <div class="text-center col-xs-6 col-md-4 col-sm-4"> <a href=bulk-sms-with-short-url.html target=_self> <span class="sprite-icon index-shorturl-icon"></span>
+              <p class="text-center pT2">SMS with Short URL</p>
+              </a> </div>
+            <div class="text-center col-xs-6 col-md-4 col-sm-4"> <a href=bulk-sms-with-missed-call-number.html target=_self> <span class="sprite-icon index-missedcall-icon"></span>
+              <p class=text-center>SMS with Missed Call Number</p>
+              </a> </div>
+            <div class="text-center col-xs-6 col-md-4 col-sm-4"> <a href=bulk-sms-with-email-to-sms.html target=_self> <span class="sprite-icon index-emailto-icon"></span>
+              <p class=text-center>Email to SMS</p>
+              </a> </div>
+            <div class="text-center col-xs-6 col-md-4 col-sm-4"> <a href=bulk-sms-with-excel-plugin.html target=_self> <span class="sprite-icon index-excel-icon"></span>
+              <p class=text-center>Excel Plugin</p>
+              </a> </div>
+            <div class="text-center col-xs-6 col-md-4 col-sm-4"> <a href=sms-gateway-api-integration-services.html> <span class="sprite-icon index-dvelopment-icon"></span>
+              <p class=text-center>Bulk SMS API Gateway</p>
+              </a> </div>
+            <div class="text-center col-xs-6 col-md-4 col-sm-4"> <a href=bulk-sms-with-reports-analytics.html target=_self> <span class="sprite-icon index-report-analytics-icon"></span>
+              <p class=text-center>Reports & Analytics</p>
+              </a> </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 padding-zero col-sm-9 col-md-9 longcodeexpdiv">
+        <div class=services-border>
+          <div class="col-xs-12 col-sm-12 col-md-12">
+            <div class=serviceicondiv>
+              <div class="header-title service-subtitle">Long Code</div>
+            </div>
+          </div>
+          <div class="col-xs-12 col-sm-12 col-md-12 service-topdiv">
+            <div class="text-center col-xs-6 col-md-4 col-sm-4"> <a href=long-code-dedicated.html target=_self> <span class="sprite-icon index-dedicated-icon"></span>
+              <p class="text-center pT2">Dedicated Long Code</p>
+              </a> </div>
+            <div class="text-center col-xs-6 col-md-4 col-sm-4"> <a href=long-code-shared.html target=_self> <span class="sprite-icon index-sharelong-icon"></span>
+              <p class=text-center>Shared Long Code</p>
+              </a> </div>
+            <div class="text-center col-xs-6 col-md-4 col-sm-4"> <a href=long-code-unlimited-key-words.html target=_self> <span class="sprite-icon index-unlimited-icon"></span>
+              <p class=text-center>Unlimited Keywords</p>
+              </a> </div>
+            <div class="text-center col-xs-6 col-md-4 col-sm-4"> <a href=long-code-reply.html target=_self> <span class="sprite-icon index-longcode-icon"></span>
+              <p class=text-center>Long Code Reply</p>
+              </a> </div>
+            <div class="text-center col-xs-6 col-md-4 col-sm-4"> <a href=long-code-api-gateway.html> <span class="sprite-icon index-dvelopment-icon"></span>
+              <p class=text-center>Long Code API Gateway</p>
+              </a> </div>
+            <div class="text-center col-xs-6 col-md-4 col-sm-4"> <a href=long-code-reports-and-analytics.html target=_self> <span class="sprite-icon index-report-analytics-icon"></span>
+              <p class=text-center>Reports & Analytics</p>
+              </a> </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 padding-zero col-sm-9 col-lg-9 shorturlexpdiv">
+        <div class=services-border>
+          <div class="col-xs-12 col-sm-12 col-md-12">
+            <div class=serviceicondiv>
+              <div class="header-title service-subtitle">Short URL</div>
+            </div>
+          </div>
+          <div class="col-xs-12 col-sm-12 col-md-12 service-topdiv">
+            <div class="text-center col-xs-6 col-md-4 col-sm-4"> <a href=short-url-web.html target=_self> <span class="sprite-icon index-web-icon"></span>
+              <p class="text-center pT2">Web Short URL</p>
+              </a> </div>
+            <div class="text-center col-xs-6 col-md-4 col-sm-4"> <a href=short-url-image.html target=_self> <span class="sprite-icon index-image-icon"></span>
+              <p class=text-center>Image Short URL</p>
+              </a> </div>
+            <div class="text-center col-xs-6 col-md-4 col-sm-4"> <a href=short-url-video.html target=_self> <span class="sprite-icon index-video-icon"></span>
+              <p class=text-center>Video Short URL</p>
+              </a> </div>
+            <div class="text-center col-xs-6 col-md-4 col-sm-4"> <a href=short-url-audio.html target=_self> <span class="sprite-icon index-audio-icon"></span>
+              <p class=text-center>Audio Short URL</p>
+              </a> </div>
+            <div class="text-center col-xs-6 col-md-4 col-sm-4"> <a href=short-url-api-gateway.html> <span class="sprite-icon index-dvelopment-icon"></span>
+              <p class=text-center>Short URL API Gateway</p>
+              </a> </div>
+            <div class="text-center col-xs-6 col-md-4 col-sm-4"> <a href=short-url-reports-and-analytics.html target=_self> <span class="sprite-icon index-report-analytics-icon"></span>
+              <p class=text-center>Reports & Analytics</p>
+              </a> </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 padding-zero col-sm-3 col-lg-3">
+        <div class="col-xs-6 bulksms-innclk-tab col-md-12 col-sm-12 bulksms-innclk">
+          <div class=service-border> <img alt="Bulk Sms srvice india" src=smsstriker-img/bulk-smsservices.png width=285 class="img-responsive autoimg service-exflimg">
+            <div>
+              <div class="header-title service-list-title">Bulk SMS</div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-6 bulksms-innclk-tab col-md-12 col-sm-12 longcode-innclk">
+          <div class=service-border> <img alt="Bulk Sms srvice india" src=smsstriker-img/bulk-smsservices.png width=285 class="img-responsive autoimg service-exflimg">
+            <div>
+              <div class="header-title service-list-title">Long Code</div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-6 bulksms-innclk-tab col-md-12 col-sm-12 shorturl-innclk">
+          <div class=service-border> <img alt="Bulk Sms srvice india" src=smsstriker-img/bulk-smsservices.png width=285 class="img-responsive autoimg service-exflimg">
+            <div>
+              <div class="header-title service-list-title">Short URL</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</article>
+
+<!-- features part-->
+<article class="padding-zero bgwhite features-homediv" >
+  <section class=container01>
+    <div class="col-xs-12 col-sm-12 col-md-12">
+      <h4 class=features-home-tit>FEATURES</h4>
+    </div>
+    <div class="carousel-reviews">
+      <div class="row">
+        <div id="carousel-reviews" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner">
+            <div class="item active">
+              <div class="col-md-2 col-sm-6">
+                <div class="padding-zero high-redund-home">
+                  <div>
+                    <div class=header-title align="left"><strong>Bulk SMS</strong> </div>
+                    <p class=text-justify>SMS Striker provides easy accessible, simple and user friendly UI compared to any other Bulk SMS service provider in India and International. Our UI allows one to import numbers in bulk of any format. It also provides a basic copy - paste option.
+                  </div>
+                </div>
+                <div class=support24by7-home>
+                  <div>
+                    <div class=header-title align="left"><strong>File SMS Service</strong></div>
+                    <p class=text-justify>This feature permits uploading files in xls, xlsx and txt format with bulk database. We as the <strong>Bulk SMS Service Provider</strong> has made known to perform SMS campaigning’s in bulk volume in one go and in no time.
+                  </div>
+                </div>
+                <div class=support24by7-home>
+                  <div>
+                    <div class=header-title align="left"><strong>Unicode SMS Service</strong></div>
+                    <p class=text-justify>Being the <strong>Bulk SMS service provider</strong>, we are feasible and flexible to send SMSes in multiple languages using a special feature named Unicode SMS Service that lets SMS to send in regional languages like Telugu, Hindi, Tamil, Gujarati, Malayalam and in international languages like Arabic, Urdu, Chinese and Greek, etc.
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-8 col-sm-6 hidden-sm hidden-xs"> <img alt="features sms services" src=smsstriker-img/features-screen.jpg width="835" class="img-responsive center-block"> </div>
+              <div class="col-md-2 col-sm-6">
+                <div class=scalab-home>
+                  <div>
+                    <div class=header-title align="left"><strong>Custom SMS Service</strong></div>
+                    <p class=text-justify>Custom SMS Service permits to send personalized SMSes as and when required. For example: SMS can be sent to an individual based on their name, location, occupation and more.
+                  </div>
+                </div>
+                <div class=cloudtech-home>
+                  <div>
+                    <div class=header-title align="left"><strong>Template</strong></div>
+                    <p class=text-justify>SMS Striker is the leading Bulk SMS service provider in India that enables to add and save SMS templates for sending SMSes multiple times as often as needed to save time. 
+                  </div>
+                </div>
+                <div class=cloudtech-home>
+                  <div>
+                    <div class=header-title align="left"><strong>Missed Call Service</strong></div>
+                    <p class=text-justify>SMS Striker provides Missed Call service along with Bulk SMS Service, which is often offered additionally based on enterprises choice. Missed Call Service is useful to know choices, to gather feedbacks / voting of their customers.
+                  </div>
+                </div>
+                <div class=cloudtech-home>
+                  <div>
+                    <div class=header-title align="left"><strong>Groups & Contacts</strong></div>
+                    <p class=text-justify>This feature helps in creating multiple groups & contacts easily which will enable to send SMS promptly to the targeted customers. 
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="col-md-2 col-sm-6">
+                <div class="col-xs-12 col-sm-12 col-md-12 padding-zero high-redund-home">
+                  <div class=header-title align="left"><strong>Long Code Service</strong></div>
+                  <p class=text-justify>Long Code service is an innovative service used to convey text based information to your prospective clients and gives an esteemed experience of using unlimited keywords with extracts of reports and analytics. It is a 10 digit number and are extremely a good option when you want to reach international clients.
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 padding-zero scalab-home">
+                  <div class="header-title text-left"><strong>Dedicated Long Code</strong></div>
+                  <p class=text-justify>Dedicated Long Code number is explicitly assigned to one particular organization which cannot be given to any other company having the feature of unlimited keywords. 
+                </div>
+              </div>
+              <div class="col-md-8 col-sm-6 hidden-sm hidden-xs"> <img alt="features sms services" src=smsstriker-img/features-screen.jpg width="835" class="img-responsive center-block"> </div>
+              <div class="col-md-2 col-sm-6">
+                <div class="scalab-home">
+                  <div>
+                    <div class=header-title align="left"><strong>Shared Long Code</strong></div>
+                    <p class=text-justify>Shared Long Code can be allotted to multiple organizations limited with assigned keywords. Keywords provided to one particular organization will not be shared to any other company. 
+                  </div>
+                </div>
+                <div class="cloudtech-home">
+                  <div>
+                    <div class=header-title align="left"><strong>Unlimited Keywords</strong></div>
+                    <p class=text-justify>Based on the business need, unlimited keywords are permissible to one particular company that are not disclosed to any other company. 
+                  </div>
+                </div>
+                <div class="cloudtech-home">
+                  <div class="">
+                    <div class=header-title align="left"><strong>SMS Reply</strong></div>
+                    <p class=text-justify>SMS Reply is sent as an acknowledgement for any of the services availed that are opt Shared, Dedicated or Unlimited Keyword. 
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="col-md-2 col-sm-6">
+                <div class="col-xs-12 col-sm-12 col-md-12 padding-zero high-redund-home">
+                  <div class="col-xs-12 col-sm-12 col-md-12 padding-zero web-video-short-url">
+                    <div class=header-title align="left"><strong>Web Short URL</strong></div>
+                    <p class=text-justify>This feature converts a regular or Long Web URL into its shortened form to come up with an abbreviated version. The user can generate several number of Short URLs for one Web URL which portraits the access of the targeted audience. Such Short URLs helps keeping a track of reports and analytics. 
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 padding-zero support24by7-home">
+                  <div class="col-xs-12 col-sm-12 col-md-12 padding-zero">
+                    <div class=header-title align="left"><strong>Image Short URL</strong></div>
+                    <p class=text-justify>In general, every Image needs web presence for generating Short URL. Whereas SMS Striker facilitates to create Image Short URL dynamically without copying into browser. 
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-8 col-sm-6 hidden-sm hidden-xs"> <img alt="features sms services" src=smsstriker-img/features-screen3.jpg width="835" class="img-responsive center-block"> </div>
+              <div class="col-md-2 col-sm-6">
+                <div class="scalab-home">
+                  <div class=" web-video-short-url">
+                    <div class=header-title><strong>Video Short URL</strong></div>
+                    <p class=text-justify> This feature allows you to upload video related to your product and service and generates Short URL instantly, to promote / share that video with the targeted customers through a SMS.<br>
+                      Promoting a Video for any instance through any marketing media is expensive. Hence, this option helps to promote videos out of our service with minimal effort unlike any other media. 
+                  </div>
+                </div>
+                <div class="cloudtech-home">
+                  <div>
+                    <div class=header-title align="left"><strong>Audio Short URL</strong></div>
+                    <p class=text-justify>Now-a-days, audio reach through OBD (Out Bound Dialer) is expensive and consumes lot of time. Propagating Audio in Short URL is a simplified technology. 
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <a class="left carousel-control feature-left" href="#carousel-reviews" role="button" data-slide="prev"> </a> <a class="right carousel-control feature-right" href="#carousel-reviews" role="button" data-slide="next"> </a> </div>
+      </div>
+    </div>
+  </section>
+  <div class="clearfix"></div>
+</article>
+
+<!-- Developer part-->
+<article class="col-xs-12 col-sm-12 col-md-12 devlop-div">
+  <section class=container01>
+    <div class="col-xs-12 col-sm-12 col-md-12 padding-zero">
+      <div class=devp-width>
+        <h4 class=develop-home-tit>DEVELOPER</h4>
+        <!--<h4 class=develop-home-sub>This server-based mode of communication is extremely simple.</h4>-->
+        <p class=text-center>SMS Striker has a robust technical team with rich experience have developed the API’s (Application Programming Interface) which is easily integral. Our advanced API is well designed to integrate to any type of platform. We have built API Gateway for Bulk SMS services, Short URL services and Long Code services. We are providing XML API Gateway, HTTP API Gateway, HTTPs API Gateway and SMPP Gateway. 
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-12 padding-zero">
+      <div class=devp-listwidth>
+        <ul class=developerlist>
+          <li>
+            <div class="sprite-icon http"></div>
+            <span>HTTP</span>
+          <li>
+            <div class="sprite-icon https"></div>
+            <span>HTTPS</span>
+          <li>
+            <div class="sprite-icon html"></div>
+            <span>HTML</span>
+          <li>
+            <div class="sprite-icon xml"></div>
+            <span>XML</span>
+          <li>
+            <div class="sprite-icon api"></div>
+            <span>API</span>
+        </ul>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+    <br>
+    <a href="sms-gateway-api-integration-services.html" class="abt-more">More</a> </section>
+</article>
+
+<!--Pricing section-->
+<article class="col-xs-12 col-sm-12 col-md-12 padding-zero bgwhite price-inner-div">
+  <section class=container01>
+    <div class=container-low>
+      <div class=mrg-botm15>
+        <h4  id="pricing" class=text-center>PRICING</h4>
+      </div>
+    </div>
+    <div>
+      <ul class="padding-zero price-striker">
+        <li class="ph-line-nav pricecurrent"> 
+        	<a href=#price-sms>
+            <div class="sprite-icon price-sms"></div>
+            <div class=price-tab-title>SMS</div>
+            </a> 
+            <a href=#price-long-code>
+            <div class="sprite-icon price-longcode"></div>
+            <div class=price-tab-title>Long Code</div>
+            </a> 
+            <a href=#price-short-url>
+            <div class="sprite-icon price-shorturl"></div>
+            <div class=price-tab-title>Short URL</div>
+            </a>
+          <div class="effect"></div>
+        </li>
+      </ul>
+      <div class="col-xs-12 col-sm-12 col-md-12 pricetab-content active-price-sms" id=price-sms>
+        <form class="col-sm-10 col-md-10 col-sm-offset-1 col-md-offset-1 col-xs-12 padding-zero price-form-sms01" id="sms-form-save1" novalidate>
+          <!-- sms select plan start -->
+          <div class="col-sm-12 col-md-12 col-xs-12 padding-zero" id="smsselectplan">
+            <ul class="smsform-field05">
+              <li>
+                <label>No.SMS</label>
+                <input type="text" name="noofsms" maxlength="12" id="noofsms" placeholder="Enter No.SMS">
+              </li>
+              <li>
+                <label>SMS Type</label>
+              <div class="btn-group bootstrap-select">
+                  <!--   <button type="button" class="btn dropdown-toggle bs-placeholder btn-default" data-toggle="dropdown" role="button" data-id="smstype" title="Select SMS Type"><span class="filter-option pull-left">Select SMS Type</span>&nbsp;<span class="bs-caret"><span class="caret"></span></span></button>   -->
+                  <div class="dropdown-menu open" role="combobox">
+                    <ul class="dropdown-menu inner" role="listbox" aria-expanded="false">
+                      <li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="true"><span class="text">Select SMS Type</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                      <li data-original-index="1"><a tabindex="0" class="sms-smstype" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">Transactional</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                      <li data-original-index="2"><a tabindex="0" class="sms-smstype" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">Promotional</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                    </ul>
+                  </div>
+                  <select class="selectpicker" name="smstype" id="smstype" tabindex="-98">
+                    <option value="">Select SMS Type</option>
+                    <option class="sms-smstype" value="Transactional">Transactional</option>
+                    <option class="sms-smstype" value="Promotional">Promotional</option>
+                  </select>
+                </div>
+              </li>
+              <li>
+                <label>Subscription</label>
+              <div class="btn-group bootstrap-select">
+                 <!--  <button type="button" class="btn dropdown-toggle bs-placeholder btn-default" data-toggle="dropdown" role="button" data-id="subcription" title="Select Subscription"><span class="filter-option pull-left">Select Subscription</span>&nbsp;<span class="bs-caret"><span class="caret"></span></span></button>   -->
+                  <div class="dropdown-menu open" role="combobox">
+                    <ul class="dropdown-menu inner" role="listbox" aria-expanded="false">
+                      <li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="true"><span class="text">Select Subscription</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                      <li data-original-index="1"><a tabindex="0" class="sms-subscritype" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">1 Month</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                      <li data-original-index="2"><a tabindex="0" class="sms-subscritype" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">3 Month</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                      <li data-original-index="3"><a tabindex="0" class="sms-subscritype" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">6 Month</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                      <li data-original-index="4"><a tabindex="0" class="sms-subscritype" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">1 Year</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                      <li data-original-index="5"><a tabindex="0" class="sms-subscritype" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">One Time</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                    </ul>
+                  </div>
+                  <select class="selectpicker" name="subcription" id="subcription" tabindex="-98">
+                    <option value="">Select Subscription</option>
+                    <option value="1" class="sms-subscritype">1 Month</option>
+                    <option value="3" class="sms-subscritype">3 Month</option>
+                    <option value="6" class="sms-subscritype">6 Month</option>
+                    <option value="12" class="sms-subscritype">1 Year</option>
+                    <option value="0" class="sms-subscritype">One Time</option>
+                  </select>
+                </div>
+              </li>
+              <li>
+                <label>Coupon</label>
+                <input type="text" name="couponCode" id="couponCode" class="couponCode" onchange="checkCouponValidity();" placeholder="Enter Coupon">
+                <span id="couponValid_Error"></span> </li>
+              <li>
+                <input type="hidden" id="couponVal" name="couponVal">
+                <!-- id="smsselectbtn" <input type="button" name="sms-form-save1" class="sms-first-form"   value="Submit" id="save"> -->
+                <input type="button" name="sms-form-save1" value="Submit" id="save" class="price-allbtn prictop25">
+              </li>
+            </ul>
+          </div>
+        </form>
+        <form class="col-xs-12 col-sm-12 col-md-12 padding-zero price-form-sms-mail" id=sms-form-save2>
+          <div class="col-xs-12 col-sm-12 col-md-12 padding-zero" id=smsdetail>
+            <div class=user-auto>
+              <div class="col-xs-12 col-sm-12 col-md-12 padding-zero">
+                <div class="col-xs-12 padding-zero col-sm-3 col-md-3">
+                  <ul class=lftdyn-list>
+                    <li>
+                      <label>No. SMS</label>
+                      <div class=label-btm><span id=totalsms></span></div>
+                    <li>
+                      <label>SMS Type</label>
+                      <div class=label-btm><span id=acttype></span></div>
+                    <li>
+                      <label>Subscription</label>
+                      <div class=label-btm><span id=noofmonths></span></div>
+                    <li><span id=couponText></span>
+                  </ul>
+                </div>
+                <div class="col-xs-12 padding-zero col-sm-9 col-md-9">
+                  <div class="col-xs-12 col-sm-12 col-md-12 padding-zero pric-secform">
+                    <input type="text" name='name' id='name' placeholder=Name maxlength=20 minlength=5>
+                  </div>
+                  <div class="col-xs-12 col-sm-12 col-md-12 padding-zero pric-secform">
+                    <input type="text" name='mobile' id='mobile' placeholder=Mobile maxlength=10>
+                  </div>
+                  <div class="col-xs-12 col-sm-12 col-md-12 padding-zero pric-secform">
+                    <input type="text" name='email' id='email' placeholder=Email maxlength=30 minlength=5>
+                  </div>
+                  <div class="col-xs-12 col-sm-12 col-md-12 padding-zero">
+                    <input name='userid' id='userid' type='hidden'>
+                    <p id='couponError'></p>
+                    <input name='save2' id='save2' type='button' value='Submit' class='price-allbtn'>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>
+        <div class="col-xs-12 col-sm-12 col-md-12 padding-zero priceotp-div" id=smsotp>
+          <p class=emsg>Please enter 4 digit OTP number that sent to your Email & Mobile</p>
+          <input name=otpverify id=otpverify class=otpinput>
+          <div class=otptxtpln>OTP
+            <input name="" type=button value="Resend OTP" class="resendotp sms-otp-resend-btn">
+          </div>
+          <div>
+            <input name="" id=save3 type=button value=Submit class=price-allbtn>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 padding-zero text-center" id=smsthanku>
+          <div class="header-title thanku-tit"><strong>Thank you for filling out your information!</strong></div>
+          <div><img alt="Thank you for filling out your information" src=smsstriker-img/thankyou-price-icon.png width=414></div>
+          <div class="header-title thanku-titbt"><strong>We've sent you an mail to provided email address</strong></div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-12 pricetab-content" id=price-long-code>
+        <form class="col-sm-10 col-md-10 col-md-offset-1 col-sm-offset-1 col-xs-12 padding-zero price-form-longcode01" novalidate>
+          <div class="col-sm-12 col-md-12 col-xs-12 padding-zero" id="longselectplan">
+            <ul class="smsform-field05">
+              <li>
+                <label class="longcode-form-mrg">Type</label>
+                <div class="btn-group bootstrap-select">
+                 <!-- <button type="button" class="btn dropdown-toggle bs-placeholder btn-default" data-toggle="dropdown" role="button" data-id="longcodetype" title="Select Type"><span class="filter-option pull-left">Select Type</span>&nbsp;<span class="bs-caret"><span class="caret"></span></span></button> -->
+                  <div class="dropdown-menu open" role="combobox">
+                    <ul class="dropdown-menu inner" role="listbox" aria-expanded="false">
+                      <li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="true"><span class="text">Select Type</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                      <li data-original-index="1"><a tabindex="0" class="longcode-type-option" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">Dedicated</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                      <li data-original-index="2"><a tabindex="0" class="longcode-type-option" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">Shared</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                    </ul>
+                  </div>
+                  <select class="selectpicker" name="longcodetype" id="longcodetype" tabindex="-98">
+                    <option value="">Select Type</option>
+                    <option value="Dedicated" class="longcode-type-option">Dedicated</option>
+                    <option value="Shared" class="longcode-type-option">Shared</option>
+                  </select>
+                </div>
+              </li>
+              <li>
+                <label><small>No of Long Code / Keywords</small></label>
+                <input type="text" name="noofkeywords" maxlength="20" minlength="5" id="noofkeywords">
+              </li>
+              <li>
+                <label class="longcode-form-mrg">Reply</label>
+                <div class="btn-group bootstrap-select">
+               <!--  <button type="button" class="btn dropdown-toggle bs-placeholder btn-default" data-toggle="dropdown" role="button" data-id="replaytype" title="Select Type"><span class="filter-option pull-left">Select Type</span>&nbsp;<span class="bs-caret"><span class="caret"></span></span></button>  -->
+                  <div class="dropdown-menu open" role="combobox">
+                    <ul class="dropdown-menu inner" role="listbox" aria-expanded="false">
+                      <li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="true"><span class="text">Select Type</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                      <li data-original-index="1"><a tabindex="0" class="longcode-replay-option" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">SMS</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                      <li data-original-index="2"><a tabindex="0" class="longcode-replay-option" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">Voice</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                      <li data-original-index="3"><a tabindex="0" class="longcode-replay-option" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">Not Applicable</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                    </ul>
+                  </div>
+                  <select class="selectpicker" name="replaytype" id="replaytype" tabindex="-98">
+                    <option value="">Select Type</option>
+                    <option value="SMS" class="longcode-replay-option">SMS</option>
+                    <option value="Voice" class="longcode-replay-option">Voice</option>
+                    <option value="Not Applicable" class="longcode-replay-option">Not Applicable</option>
+                  </select>
+                </div>
+              </li>
+              <li>
+                <label class="longcode-form-mrg">Subscription</label>
+               <div class="btn-group bootstrap-select">
+                 <!-- <button type="button" class="btn dropdown-toggle bs-placeholder btn-default" data-toggle="dropdown" role="button" data-id="longcodesubscription" title="Select Subscription"><span class="filter-option pull-left">Select Subscription</span>&nbsp;<span class="bs-caret"><span class="caret"></span></span></button>  -->
+                  <div class="dropdown-menu open" role="combobox">
+                    <ul class="dropdown-menu inner" role="listbox" aria-expanded="false">
+                      <li data-original-index="0" class="selected"><a tabindex="0" class="" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="true"><span class="text">Select Subscription</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                      <li data-original-index="1"><a tabindex="0" class="longcode-subscrip-option" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">1 Month</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                      <li data-original-index="2"><a tabindex="0" class="longcode-subscrip-option" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">3 Month</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                      <li data-original-index="3"><a tabindex="0" class="longcode-subscrip-option" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">6 Month</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                      <li data-original-index="4"><a tabindex="0" class="longcode-subscrip-option" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">1 Year</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                      <li data-original-index="5"><a tabindex="0" class="longcode-subscrip-option" style="" data-tokens="null" role="option" aria-disabled="false" aria-selected="false"><span class="text">One Time</span><span class="glyphicon glyphicon-ok check-mark"></span></a></li>
+                    </ul>
+                  </div>
+                  <select class="selectpicker" name="subscription" id="longcodesubscription" tabindex="-98">
+                    <option value="">Select Subscription</option>
+                    <option value="1" class="longcode-subscrip-option">1 Month</option>
+                    <option value="3" class="longcode-subscrip-option">3 Month</option>
+                    <option value="6" class="longcode-subscrip-option">6 Month</option>
+                    <option value="12" class="longcode-subscrip-option">1 Year</option>
+                    <option value="0" class="longcode-subscrip-option">One Time</option>
+                  </select>
+                </div>
+              </li>
+              <li>
+                <input type="button" name="" value="Submit" id="longselectbtn" class="price-allbtn prictop25">
+                
+                <!--<input type="button" name="" class="price-allbtn prictop25" value="Submit" id="longcodesave"> --> 
+              </li>
+            </ul>
+          </div>
+        </form>
+        <!-- longcode select plan end --> 
+        <!-- longcode personal details start -->
+        <form class="col-sm-11 col-md-11 col-md-offset-1 col-sm-offset-1 col-xs-12 padding-zero  price-form-longcode-mail">
+          <div class="col-sm-12 col-md-12 col-xs-12 padding-zero">
+            <div class="user-auto">
+              <div class="col-sm-12 col-md-12 col-xs-12 padding-zero">
+                <div class="col-sm-3 col-md-3 col-xs-12 padding-zero">
+                  <ul class="lftdyn-list">
+                    <li>
+                      <label>Longcode Type</label>
+                      <div class="label-btm" id="longcodeacttype"></div>
+                    </li>
+                    <li>
+                      <label>No of Long Code / Keywords</label>
+                      <div class="label-btm" id="totalkeywords"></div>
+                    </li>
+                    <li>
+                      <label>Reply Type</label>
+                      <div class="label-btm" id="replytype"></div>
+                    </li>
+                    <li>
+                      <label>Subscription</label>
+                      <div id="noofmonthslongcode" class="label-btm"> </div>
+                      Month </li>
+                  </ul>
+                </div>
+                <input type="hidden" name="primary_source" id="primary_source" value="Smsstriker" />
+                <input type="hidden" name="secondary_source" id="secondary_source" value="Long code" />
+                <input type="hidden" id="auth" name="auth" value="MQcsLHWNXzIk9ZuM60+znuMEgsde1T7n+V+xt89gTIE=" />
+                <div class="col-sm-9 col-md-9 col-xs-12 padding-zero">
+                  <div class="col-sm-12 col-md-12 col-xs-12 pric-secform padding-zero">
+                    <input type="text" name="name" placeholder="Name" maxlength="20" minlength="5" id="longusrname">
+                  </div>
+                  <div class="col-sm-12 col-md-12 col-xs-12 pric-secform padding-zero">
+                    <input type="text" name="phone" placeholder="Mobile" maxlength="10" minlength="10" id="longusrmobile">
+                  </div>
+                  <div class="col-sm-12 col-md-12 col-xs-12 pric-secform padding-zero">
+                    <input type="text" name="email" placeholder="Email" maxlength="30" minlength="4" id="longusremail">
+                  </div>
+                  <div class="col-sm-12 col-md-12 col-xs-12 pric-secform padding-zero">
+                    <input type="hidden" name="longuserid" id="longuserid">
+                  </div>
+                  <div class="col-sm-12 col-md-12 col-xs-12 padding-zero">
+                    <input type="button" name="submit" id="longdetailbtn" class="price-allbtn" value="Submit">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>
+        <div class="col-xs-12 col-sm-12 col-md-12 padding-zero priceotp-div price-form-longcodeotp">
+          <p class=emsg>Please enter 4 digit OTP number that sent to your mobile</p>
+          <input name=otpsendlongcode id=otpsendlongcode class=otpinput>
+          <div class=otptxtpln>OTP
+            <input name=resendotplongcode id=resendotplongcode type=button value="Resend OTP" class=resendotp>
+          </div>
+          <div>
+            <input name=otpsave id=longotpbtn type=button value=Submit class=price-allbtn>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 padding-zero text-center price-longcode-thanks-message" id=longthanku>
+          <div class="header-title thanku-tit"><strong>Thank you for filling out your information!</strong></div>
+          <div><img alt=thankyou-price src=smsstriker-img/thankyou-price-icon.png width=414></div>
+          <div class="header-title thanku-titbt"><strong>We've sent you an mail to provided email address</strong></div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-12 pricetab-content" id=price-short-url>
+        <div class="col-xs-12 col-sm-12 col-md-12 padding-zero text-center demoprbtns price-shorturl-section01">
+          <input name="" type=button value=Price class="abt-more price-shorturl-btn01">
+          <input name="" type=hidden value=Demo class="abt-more demo-shorturl-btn01">
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 padding-zero">
+          <div class="col-xs-12 col-sm-12 col-md-12 padding-zero">
+            <div class=container-captha>
+              <div class="col-xs-12 col-sm-12 col-md-12 padding-zero" id=demopricecapt>
+                <form class="col-xs-12 col-sm-12 col-md-12 padding-zero shorturllinkdiv">
+                  <div class="col-xs-12 col-sm-12 col-md-12 padding-zero pric-secform">
+                    <input name=short_input placeholder="Your original URL here" class=short_input>
+                  </div>
+                  <div class="col-xs-12 col-sm-12 col-md-12 padding-zero pric-secform">
+                    <div class="col-xs-12 col-md-4 col-sm-4 padding-ltzero">
+                      <input name=entercaptchacode id=entercaptchacode placeholder="Enter Code" maxlength=10>
+                    </div>
+                    <div class="col-xs-12 col-md-4 col-sm-4 padding-ltzero">
+                      <input name=codetypecopy id=txtCaptcha readonly oncopy=return!1 onpaste=return!1 oncontextmenu=return!1>
+                    </div>
+                    <div class="col-xs-12 padding-zero col-md-4 col-sm-4">
+                      <input name=shorturlgenerate id=shorturlgenerate type=button value=Submit class=price-allbtn>
+                    </div>
+                  </div>
+                </form>
+              </div>
+              <div class="col-xs-12 col-sm-12 col-md-12 padding-zero copybtn-div">
+                <div class="col-xs-12 col-sm-12 col-md-12 padding-zero text-center"></div>
+                <div class="col-xs-12 col-sm-12 col-md-12 padding-zero text-center">
+                  <input name=getdetails id=getdetails type=button value="Get Details" class=copybtns>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xs-12 col-sm-12 col-md-12 padding-zero tableprice-div">
+            <table class="table-price">
+              <thead>
+                <tr>
+                  <th>S.No
+                  <th>City
+                  <th>Divice Type
+                  <th>Browser Type
+                  <th>Operating System
+                  <th>Build By
+                  <th>Date and Time
+              <tbody>
+                <tr>
+                  <td>1
+                  <td>hyd
+                  <td>mob
+                  <td>chrome
+                  <td>windows
+                  <td>df
+                  <td>01-12-2016
+            </table>
+          </div>
+        </div>
+ 
+ 
+        <form class="col-xs-12 padding-zero col-md-11 col-md-offset-1 col-sm-11 col-sm-offset-1 price-form-shorturl01">
+          <div class="col-xs-12 col-sm-12 col-md-12 padding-zero" id=shortselectplan>
+            <ul class=smsform-field05>
+              <li>
+                <label>No. of Short URL's</label>
+                <input type="text" name=shorturl id=shorturl maxlength=12>
+              <li>
+                <label>Reply</label>
+                <select class=selectpicker id=shortreplay name=shortreplay>
+                  <option value="">Select Reply Type
+                  <option value=SMS class=shorturl-replay-option>SMS
+                  <option value=Voice class=shorturl-replay-option>Voice
+                  <option value="Not Applicable" class=shorturl-replay-option>Not Applicable
+                </select>
+              <li>
+                <label>Subscription</label>
+                <select class=selectpicker id=shortsubcription name=shortsubcription>
+                  <option value="">Select Subscription
+                  <option value=1 class=shorturl-replay-option>1 Month
+                  <option value=3 class=shorturl-replay-option>3 Month
+                  <option value=6 class=shorturl-replay-option>6 Month
+                  <option value=12 class=shorturl-replay-option>1 Year
+                  <option value=0 class=shorturl-replay-option>One Time
+                </select>
+              <li>
+                <input name=shortsave id=shortsave type=button value=Submit class="price-allbtn prictop25">
+            </ul>
+          </div>
+        </form>
+ 
+ 
+        <form class="col-xs-12 padding-zero col-md-11 col-md-offset-1 col-sm-11 col-sm-offset-1 price-form-shorturl-mail">
+          <div class="col-xs-12 col-sm-12 col-md-12 padding-zero" id=shortdetail>
+            <div class=user-auto>
+              <div class="col-xs-12 col-sm-12 col-md-12 padding-zero">
+                <div class="col-xs-12 padding-zero col-sm-3 col-md-3">
+                  <ul class=lftdyn-list>
+                    <li>
+                      <label>No. of Short URL</label>
+                      <div class=label-btm id=shorturlnos></div>
+                    <li>
+                      <label>Reply</label>
+                      <div class=label-btm id=shorturlreplay></div>
+                    <li>
+                      <label>Subscription</label>
+                      <div class=label-btm id=monthsnos>Month</div>
+                  </ul>
+                </div>
+                <div class="col-xs-12 padding-zero col-sm-9 col-md-9">
+                  <div class="col-xs-12 col-sm-12 col-md-12 padding-zero pric-secform">
+                    <input type="text" name=shortlusrname id=shortlusrname maxlength=20 minlength=5 placeholder=Name>
+                  </div>
+                  <div class="col-xs-12 col-sm-12 col-md-12 padding-zero pric-secform">
+                    <input  type="text" name=shorturlmobile id=shorturlmobile maxlength=10 minlength=10 placeholder=Mobile>
+                  </div>
+                  <div class="col-xs-12 col-sm-12 col-md-12 padding-zero pric-secform">
+                    <input  type="text" name=shortusremail id=shortusremail maxlength=30 minlength=4 placeholder=Email>
+                  </div>
+                  <div class="col-xs-12 col-sm-12 col-md-12 padding-zero">
+                    <input name=shorturluserid id=shorturluserid type=hidden>
+                    <input name="" id=shorturlsave2 type=button value=Submit class=price-allbtn>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>
+        <div class="col-xs-12 col-sm-12 col-md-12 padding-zero priceotp-div" id=shortotp>
+          <p class=emsg>Please enter 4 digit OTP number that sent to your mobile</p>
+          <input name=shorturlotpverify id=shorturlotpverify class=otpinput>
+          <div class=otptxtpln>OTP
+            <input id=resendotpshorturl type=button value="Resend OTP" class=resendotp>
+          </div>
+          <div>
+            <input name=shorturlsave3 id=shorturlsave3 type=button value=Submit class=price-allbtn>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 padding-zero text-center" id=shortthanku>
+          <div class="header-title thanku-tit"><strong>Thank you for filling out your information!</strong></div>
+          <div><img alt=thankyou-price src=smsstriker-img/thankyou-price-icon.png width=414></div>
+          <div class="header-title thanku-titbt"><strong>We've sent you an mail to provided email address</strong></div>
+        </div>
+      </div>
+    </div>
+    <div class=clearfix></div>
+  </section>
+</article>
+
+<!--Resource section-->
+<article class="col-xs-12 col-sm-12 col-md-12 padding-zero resources-div" id="videos">
+  <section class=container01>
+    <div class="col-xs-12 col-sm-12 col-md-12 padding-zero">
+      <h4 class=resources-home-tit>RESOURCES</h4>
+      <ul class="col-xs-12 col-sm-3 col-md-2 padding-ltzero resources-tabstriker">
+        <li class=restabcurrent> <a href=#resources-faqs>
+          <div class="sprite-icon faqs-icons"></div>
+          <div class=ressub-tab-title>FAQ's</div>
+          </a>
+        <li> <a href=#resources-guides>
+          <div class="sprite-icon user-guide-icons"></div>
+          <div class=ressub-tab-title>User Guides</div>
+          </a>
+        <li> <a href=#resources-casestudies>
+          <div class="sprite-icon case-studies-icons"></div>
+          <div class=ressub-tab-title>Case Studies</div>
+          </a>
+        <li> <a href=#resources-video>
+          <div class="sprite-icon video-tutorial-icons"></div>
+          <div class=ressub-tab-title>Video Tutorial</div>
+          </a>
+        <li> <a href=#resources-blog>
+          <div class="sprite-icon blog-icon"></div>
+          <div class=ressub-tab-title>Blog</div>
+          </a>
+      </ul>
+     
+      <div class="col-xs-12 col-sm-9 col-md-10 resourcestab-content activecontent" id=resources-faqs>
+        <div class="padding-zero header-title text-blue margin-zero">FAQ's</div>
+        <div class=case-studies-info>
+          <ul class="index-faqs scrollbar" id=style-3>
+            <li><a href=faqs.html target=_self>What is a Short Message Service or SMS?</a>
+            <li><a href=faqs.html target=_self>Explain Multipart / Concatenated SMS?</a>
+            <li><a href=faqs.html target=_self>What is an SMS gateway?</a>
+            <li><a href=faqs.html target=_self>Who can use SMS Striker services?</a>
+            <li><a href=faqs.html target=_self>How long does the Striker’s SMS Service take to set up?</a>
+            <li><a href=faqs.html target=_self>Can I purchase credits online in SMS Striker? If yes, how?</a>
+            <li><a href=faqs.html target=_self>How can I send SMS Striker messages online?</a>
+            <li><a href=faqs.html target=_self>How much does it cost to send a message via Striker SMS Service?</a>
+            <li><a href=faqs.html target=_self>Will my Striker SMS credits expire?</a>
+            <li><a href=faqs.html target=_self>How many characters can I send in a message and Why?</a>
+            <li><a href=faqs.html target=_self>How long does it take for SMS Striker team to convert my account to Transactional?</a>
+            <li><a href=faqs.html target=_self>Can I have more than one sender ID approved for my transactional account through SMS Striker Are there any additional charges?</a>
+            <li><a href=faqs.html target=_self>How long does it take for the SMS Striker support team to approve the templates?</a>
+            <li><a href=faqs.html target=_self>I have a transactional account with SMS Striker. Now I want to do promotional campaigns for my product launch. Do I have to create a new account and purchase credits again?</a>
+            <li><a href=faqs.html target=_self>Can I send SMS in Regional Languages using SMS Striker Dashboard?</a>
+            <li><a href=faqs.html target=_self>Explain a Unicode message and why is it used? </a>
+            <li><a href=faqs.html target=_self>I have sent a message to some numbers. How do I check if the message has been delivered in SMS Striker Dashboard?</a>
+            <li><a href=faqs.html target=_self>Does SMS Striker provide data?</a>
+            <li><a href=faqs.html target=_self>I am having a reseller white labelled account with SMS Striker. Where do I find the API hash keys for my sub accounts?</a>
+            <li><a href=faqs.html target=_self>Can I send messages internationally?</a>
+            <li><a href=faqs.html target=_self>Can the sender name be my business name, rather than a random number with SMS Striker?</a>
+            <li><a href=faqs.html target=_self>Can I schedule messages to be sent at a later date in SMS Striker? </a>
+            <li><a href=faqs.html target=_self>How does Striker’s Bulk SMS service messaging work?</a>
+            <li><a href=faqs.html target=_self>Explain how do I send bulk SMS messages for my business?</a>
+            <li><a href=faqs.html target=_self>How can businesses buy Bulk SMS messages with Striker?</a>
+            <li><a href=faqs.html target=_self>How much does Striker Bulk SMS costs?</a>
+            <li><a href=faqs.html target=_self>How long does it take to send SMS in bulk?</a>
+            <li><a href=faqs.html target=_self>What's the limit on simultaneous bulk messaging?</a>
+            <li><a href=faqs.html target=_self>Can I integrate the SMS Striker Bulk SMS gateway into my application?</a>
+            <li><a href=faqs.html target=_self>Can I sign up for a free trial with SMS Striker?</a>
+            <li><a href=faqs.html target=_self>What is DND number mean?</a>
+            <li><a href=faqs.html target=_self>What are TRAI’s regulations?</a>
+            <li><a href=faqs.html target=_self>What is Unsolicited Commercial Communication (UCC)?</a>
+            <li><a href=faqs.html target=_self>What is the National Customer Preference Register (NCPR)?</a>
+            <li><a href=faqs.html target=_self>Differences between Promotional SMS and Transactional SMS?</a>
+            <li><a href=faqs.html target=_self>Explain a Promotional Messages?</a>
+            <li><a href=faqs.html target=_self>Explain Transactional Messages?</a>
+            <li><a href=faqs.html target=_self>Explain a fully blocked category and partially blocked category?</a>
+            <li><a href=faqs.html target=_self>What is the procedure for customers (subscribers) to register in NCPR?</a>
+            <li><a href=faqs.html target=_self>Do I need to submit any documents for sending Bulk SMS using SMS Striker?</a>
+            <li><a href=faqs.html target=_self>Do I need to filter DND registered numbers before sending messages with SMS Striker?</a>
+            <li><a href=faqs.html target=_self>Is it possible to send Promotional messages to subscribers registered in DND who opted in to receive messages from a particular category?</a>
+            <li><a href=faqs.html target=_self>Is it possible to send messages throughout the day via SMS Striker?</a>
+            <li><a href=faqs.html target=_self>Is it possible to schedule and send campaigns to my subscribers through SMS Striker when a DND violation is under process?</a>
+            <li><a href=faqs.html target=_self>How do I request for a Transactional account with SMS Striker?</a>
+            <li><a href=faqs.html target=_self>Explain the restrictions on my Transactional account with SMS Striker?</a>
+            <li><a href=faqs.html target=_self>Does additional regulatory rules apply to setup an account to send stock market or trading alerts with SMS Striker?</a>
+          </ul>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-9 col-md-10 resourcestab-content" id=resources-guides>
+        <div class="padding-zero header-title text-blue margin-zero">Guides</div>
+        <div class=case-studies-info>
+            <div class="col-md-4 col-sm-6 text-center">
+            	<a href="user-guide/change-password.html">
+                <div class="user-guide-hover">
+                	<img alt=guide src=smsstriker-img/change-password.png>
+            	<h4>Change password</h4>
+                </div>
+                
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6 text-center">
+            	<a href="user-guide/create-account.html">            	
+                <div class="user-guide-hover">            
+            		<img alt=guide src=smsstriker-img/create-account.png>
+            	<h4>Create Account</h4>
+                </div>
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6 text-center">
+            	<a href="user-guide/send-sms.html">            	
+                <div class="user-guide-hover">                        
+            		<img alt=guide src=smsstriker-img/long-code.png>
+            	<h4>Send SMS</h4>
+                </div>
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6 text-center">
+            	<a href="user-guide/sms-with-short-url-guide.html">            	
+                <div class="user-guide-hover">                        		
+                    <img alt=guide src=smsstriker-img/sms-with-short-url-guide.png>
+            	<h4>SMS with Short URL</h4>
+                </div>
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6 text-center">
+            	<a href="user-guide/long-code.html">            	
+                <div class="user-guide-hover">                        		
+                    <img alt=guide src=smsstriker-img/send-sms.png>
+            	<h4>Long Code</h4>
+                </div>
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6 text-center">
+            	<a href="user-guide/online-payment.html">            	
+                <div class="user-guide-hover">                        	
+            		<img alt=guide src=smsstriker-img/online-payment.png>
+            	<h4>Online Payment</h4>
+                </div>
+                </a>
+            </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-9 col-md-10 resourcestab-content" id=resources-casestudies>
+        <div class="padding-zero header-title text-blue margin-zero">Case Studies</div>
+        <div class="case-studies-info case-studies-types">
+          <div class="text-center col-xs-6 col-sm-3"> <a href=javascript:void(0) target=_self class="active hospital" data-source=hospital>
+            <p class=text-center><strong>Hospitals</strong></p>
+            </a> </div>
+          <div class="text-center col-xs-6 col-sm-3"> <a href=javascript:void(0) target=_self class=travel data-source=travel>
+            <p class=text-center>Car Travels</p>
+            </a> </div>
+          <div class="text-center col-xs-6 col-sm-3"> <a href=javascript:void(0) target=_self class=commerce data-source=ecommerce>
+            <p class=text-center>E Commerce</p>
+            </a> </div>
+          <div class="text-center col-xs-6 col-sm-3"> <a href=javascript:void(0) target=_self class=college data-source=college>
+            <p class=text-center>College</p>
+            </a> </div>
+          <div class=clearfix></div>
+          <div class=case-studies-info>
+            <div class="active studies-info" id=hospital>
+              <div class="padding-zero header-title text-blue">How SMS Striker helped Hospitals to promote effective communication ?</div>
+              <p>Modern healthcare industry is crowded with patients, Doctors, nurses, healthcare technicians and other administrative staff handling their daily chores of work. Hospitals need coordination and communication in their day to day operations and also to provide effective services to their patients. There should be effective communication between staff members internally and externally with patients and stakeholders.</p>
+              <a href=case-studies/bulk-sms-for-hospitals.html target=_self class="pull-right bulk-more-link">More</a> </div>
+            <div class=studies-info id=travel>
+              <div class="padding-zero header-title text-blue">Learn how Striker’s virtual number helped car travel business</div>
+              <p>Modern day Cab travel businesses are creating an innovative experience for their customers as they perform their day-to-day business activities via mobile apps and SMS that will help customers to book, check, track and communicate with the cab travels.</p>
+              <a href=case-studies/bulk-promotional-sms-service-traveling.html target=_self class="pull-right bulk-more-link">More</a> </div>
+            <div class=studies-info id=ecommerce>
+              <div class="padding-zero header-title text-blue">Learn how SMS Striker helped to increase the sales of E-commerce Enterprise</div>
+              <p>Our client is one of the major e-commerce enterprises that sell more than one million products in a month via online and it is one of the fastest growing ecommerce businesses over last four years.</p>
+              <a href=case-studies/e-commerce-bulk-transactional-sms.html target=_self class="pull-right bulk-more-link">More</a> </div>
+            <div class=studies-info id=college>
+              <div class="padding-zero header-title text-blue">Learn how SMS Striker has helped the College to procure 100% admissions.</div>
+              <p>SMS solutions helps to keep management of the education institute as well as teachers, parents and student communities to stay connected with each other. Communication is much needed to run and manage in the educational industry and to enhance better learning. In the realm of education, the usage of SMS services has increased and became easier for the management to interact and communicate that enabled them to achieve greater success and positive results.</p>
+              <a href=case-studies/bulk-sms-service-for-colleges.html target=_self class="pull-right bulk-more-link">More</a> </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-9 col-md-10 resourcestab-content" id=resources-video>
+        <div>
+          <div class="padding-zero header-title text-blue margin-zero">Video Tutorials</div>
+        </div>
+<div class="col-xs-12 col-sm-12 col-md-12 padding-zero">
+<div class="padding-zero case-studies-info">
+<div class="col-md-9">
+<div class="video-frame">
+<div class="tab-content">
+  <div id="menu9" class="tab-pane fade in active">
+ 
+  </div>
+  
+  <div id="menu1" class="tab-pane fade">
+  </div>
+
+  <div id="menu2" class="tab-pane fade">
+
+</div>
+
+  <div id="menu3" class="tab-pane fade">
+
+  </div>
+  
+  <div id="menu4" class="tab-pane fade">
+
+  </div>
+  
+  <div id="menu5" class="tab-pane fade">
+ </div>
+
+  <div id="menu6" class="tab-pane fade">
+
+  </div>
+  
+  <div id="menu7" class="tab-pane fade">
+ </div>
+
+  <div id="menu8" class="tab-pane fade">
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-3">
+    <div class="video-scroll scrollbar" id="style-3">
+        <ul class="nav nav-pills">
+            <li class="active">
+                <a data-toggle="pill" href="#menu9" id="v9">
+                    <div class="video-bg video-bg1"></div>
+                    <p>reports</p>
+                </a>
+            </li>
+            <li>
+                <a data-toggle="pill" href="#menu1" id="v1">
+                    <div class="video-bg video-bg2"></div>
+                    <p>Customised SMS Design</p>
+                </a>
+            </li>
+            <li>
+                <a data-toggle="pill" href="#menu2" id="v2">
+                    <div class="video-bg video-bg3"></div>
+                    <p>About SMS Striker</p>
+                </a>
+            </li>
+            <li>
+                <a data-toggle="pill" href="#menu3" id="v3">
+                    <div class="video-bg video-bg4"></div>
+                    <p>Change Password</p>
+                </a>
+            </li>
+            <li>
+                <a data-toggle="pill" href="#menu4" id="v4">
+                    <div class="video-bg video-bg5"></div>
+                    <p>SMS Credits</p>
+                </a>
+            </li>
+            <li>
+                <a data-toggle="pill" href="#menu5" id="v5">
+                    <div class="video-bg video-bg6"></div>
+                    <p>Templete for Bulk SMS</p>
+                </a>
+            </li>
+            <li>
+                <a data-toggle="pill" href="#menu6" id="v6">
+                    <div class="video-bg video-bg7"></div>
+                    <p>Group in Bulk sms</p>
+                </a>
+            </li>
+            <li>
+                <a data-toggle="pill" href="#menu7" id="v7">
+                    <div class="video-bg video-bg8"></div>
+                    <p>Add Credits to Short URL</p>
+                </a>
+            </li>
+            <li>
+                <a data-toggle="pill" href="#menu8" id="v8">
+                    <div class="video-bg video-bg9"></div>
+                    <p>Add Credits to Short URL</p>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+</div>
+          
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-9 col-md-10 resourcestab-content" id=resources-blog>
+        <div class="padding-zero header-title text-blue margin-zero">BLOG</div>
+        <div class="padding-zero case-studies-info">
+        <a href=https://www.smsstriker.com/blog/ target=_blank><img alt="SMS Striker blogs" src=smsstriker-img/blog.jpg width=1016 class=img-responsive>
+                <button type="button" class="btn btn-blog-here">Click here</button>
+        </a>
+
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-9 col-md-10 resourcestab-content" id=resources-markating>Markating</div>
+    </div>
+  </section>
+</article>
+
+<!--clients part-->
+<article class="col-xs-12 col-sm-12 col-md-12 padding-zero bgwhite clients-home-div">
+  <section class=container01>
+    <div class="col-xs-12 col-sm-12 col-md-12 padding-zero">
+      <h4 class=resources-home-tit>CLIENTS</h4>
+    </div>
+    <div class=col-md-12>
+      <div class="carousel slide" id=Carousel>
+        <ol class=carousel-indicators>
+          <li class=active data-slide-to=0 data-target=#Carousel>
+          <li data-slide-to=1 data-target=#Carousel>
+        </ol>
+        <div class=carousel-inner>
+          <div class="active item">
+            <div class=row>
+              <div class="col-md-3 col-sm-3 col-xs-6"><span class="client-icon c1"></span></div>
+              <div class="col-md-3 col-sm-3 col-xs-6"><span class="client-icon c2"></span></div>
+              <div class="col-md-3 col-sm-3 col-xs-6"><span class="client-icon c3"></span></div>
+              <div class="col-md-3 col-sm-3 col-xs-6"><span class="client-icon c4"></span></div>
+            </div>
+          </div>
+          <div class=item>
+            <div class=row>
+              <div class="col-md-3 col-sm-3 col-xs-6"><span class="client-icon c5"></span></div>
+              <div class="col-md-3 col-sm-3 col-xs-6"><span class="client-icon c6"></span></div>
+              <div class="col-md-3 col-sm-3 col-xs-6"><span class="client-icon c7"></span></div>
+              <div class="col-md-3 col-sm-3 col-xs-6" 3><span class="client-icon c8"></span></div>
+            </div>
+          </div>
+        </div>
+        <a href=#Carousel class="carousel-control left" data-slide=prev>‹</a> <a href=#Carousel class="carousel-control right" data-slide=next>›</a> </div>
+    </div>
+  </section>
+</article>
+<!--other products part-->
+<article class="col-xs-12 col-sm-12 col-md-12 padding-zero product-home-div">
+  <section class=container01>
+    <div class="col-xs-12 col-sm-12 col-md-12 padding-zero">
+      <h4 class=product-home-tit>OTHER PRODUCTS</h4>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-12 padding-zero">
+      <div class="padding-zero col-md-6 col-sm-6 products-index">
+        <div class="col-xs-4 vcenter"> <img alt="firstring product" src=smsstriker-img/product-first-ring.jpg width=161 class="img-responsive autoimg"></div>
+        <div class="col-xs-6 text-left vcenter"><font>Experience the Virtual and Toll-Free services that are catered as per needs and requirements of the enterprises.</font><a href=http://www.firstring.in target=_blank rel=nofollow>www.firstring.in</a></div>
+      </div>
+      <div class="padding-zero col-md-6 col-sm-6 products-index">
+        <div class="col-xs-4 vcenter"><img alt="office product" src=smsstriker-img/product-office.jpg width=161 class="img-responsive autoimg"></div>
+        <div class="col-xs-6 text-left vcenter"><font>Office24by7 is an enterprise grade telephony platform. It provides Call Center Solutions in Cloud as well as on-Premises for all small to big scale organizations. </font><a href=http://www.office24by7.com target=_blank rel=nofollow>www.office24by7.com</a></div>
+      </div>
+      <br>
+      <div class=clearfix></div>
+      <br>
+      <div class="padding-zero col-md-6 col-sm-6 products-index">
+        <div class="col-xs-4 vcenter"><img alt="voice product" src=smsstriker-img/product-voice.jpg width=161 class="img-responsive autoimg"></div>
+        <div class="col-xs-6 text-left vcenter"><font>Voice Striker cost-efficiently manages both inbound and outbound solutions for enterprises, integrating voice services like virtual number, IVR, conference call creating a customer friendly provision.</font><a href=http://www.voicestriker.com target=_blank rel=nofollow>www.voicestriker.com</a></div>
+      </div>
+      <div class="padding-zero col-md-6 col-sm-6 products-index">
+        <div class="col-xs-4 vcenter"><img alt="OTP product" src=smsstriker-img/product-otp.jpg width=161 class="img-responsive autoimg"></div>
+        <div class="col-xs-6 text-left vcenter"><font>OTP Box is being designed and developed to integrate all our services SMS, Voice and Email with single API.  OTP Box motto is cent percent reachability with accuracy.</font><a href=http://www.otpbox.com target=_blank rel=nofollow>www.otpbox.com</a></div>
+      </div>
+    </div>
+  </section>
+</article>
+
+<!--footer part-->
+<footer class="col-xs-12 col-sm-12 col-md-12 padding-zero main-footer">
+  <div class="container01">
+    <div class="col-sm-12 col-md-12 col-xs-12 footertop padding-zero">
+      <div class="col-md-3 col-lg-3 col-xs-6 padding-zero">
+        <ul class="footerlist">
+          <li>Bulk SMS Service</li>
+          <li><a href="bulk-sms-with-short-url.html">SMS with Short URL</a></li>
+          <li><a href="bulk-sms-with-missed-call-number.html">SMS with Missed Call Number</a></li>
+          <li><a href="bulk-sms-with-email-to-sms.html">Email To SMS</a></li>
+          <li><a href="bulk-sms-with-excel-plugin.html">Excel Plugin</a></li>
+          <li><a href="sms-gateway-api-integration-services.html">Bulk SMS API Gateway</a></li>
+          <li><a href="bulk-sms-with-reports-analytics.html">Reports & Analytics</a></li>
+        </ul>
+      </div>
+      <div class="col-md-3 col-lg-3 col-xs-6 padding-zero clear-720p">
+        <ul class="footerlist">
+          <li>Short URL Service</li>
+          <li><a href="short-url-web.html">Web Short URL</a></li>
+          <li><a href="short-url-image.html">Image Short URL</a></li>
+          <li><a href="short-url-video.html">Video Short URL</a></li>
+          <li><a href="short-url-audio.html">Audio Short URL</a></li>
+          <li><a href="short-url-api-gateway.html">Short URL API Gateway</a></li>
+          <li><a href="short-url-reports-and-analytics.html">Reports & Analytics</a></li>
+        </ul>
+      </div>
+      <div class="col-md-3 col-lg-3 col-xs-6 padding-zero ">
+        <ul class="footerlist">
+          <li>Long Code Service</li>
+          <li><a href="long-code-dedicated.html">Dedicated Long Code</a></li>
+          <li><a href="long-code-shared.html">Shared Long Code</a></li>
+          <li><a href="long-code-unlimited-key-words.html">Unlimited Keywords</a></li>
+          <li><a href="long-code-reply.html">Long Code Reply</a></li>
+          <li><a href="long-code-api-gateway.html">Long Code API Gateway</a></li>
+          <li><a href="long-code-reports-and-analytics.html">Reports & Analytics</a></li> 
+        </ul>
+      </div>
+      <div class="col-md-3 col-lg-3 col-xs-6 padding-zero ">
+        <ul class="footerlist">
+          <li>Bulk SMS Reseller</li>
+          <li><a href="white-label-panel.html">White Label Panel</a></li>
+          <li><a href="reseller-missed-call.html">Missed Call</a></li>
+          <li><a href="reseller-sms-with-short-url.html">Short URL</a></li>
+          <li><a href="reseller-exel-plugin.html">Excel Plugin</a></li>
+          <li><a href="sms-gateway-api-integration-services.html">Developer</a></li>
+          <li><a href="reseller-reports-and-analytics.html">Reports & Analytics</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="footer-address">
+      <h4 align="center">Branches</h4>
+      <div class="row">
+        <div class="col-md-4 col-sm-4">
+          <h3 class="head-add">Hyderabad Office</h3>
+          <p class="head-add-text"># 164/3, 4th Floor, Sinman Dwaraka Opp: Cyber Gateway, Hi-Tech City Madhapur, Hyderabad - 500 081 </p>
+        </div>
+        <div class="col-md-4 col-sm-4">
+          <h3 class="head-add">Bengaluru Office</h3>
+          <p class="head-add-text"># No. 7, 4th Floor, 80 Feet Road Above Federal Bank, Koramangala 7th Block, Bengaluru - 560 095</p>
+        </div>
+        <div class="col-md-4 col-sm-4">
+          <h3 class="head-add">Chennai Office</h3>
+          <p class="head-add-text"># 4th Cross Road, OMR, Karapakkam, Chennai - 600 097. India.</p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="footer-up">
+      <div class="footer-container">
+        <h1 align="center" style="font-size:24px;">Bulk SMS Service Provider</h1>
+        <p>Bulk SMS Service is one of the fastest and easiest ways for the Enterprises to reach their customers as it is reliable. Bulk SMS Service is cost effective in comparison with any other media as High Return on Investment can be achieved with Low cost. SMS Striker provides both Transactional and Promotional Bulk SMS in adherence with TRAI (Telecom Regulatory Authority of India) as SMS Service Provider. Bulk SMS Services helps in Brand Promotion, for event publicity, to do follow-ups and for Customer Engagement & Retention. SMS Striker also provides API, S.M.P.P and Reseller (White Label Panel Provider) services.</p>
+      </div>
+      <div class="footer-container">
+        <h2 align="center">Transactional SMS Service</h2>
+        <p>Generally, Transactional Bulk SMSes are sent to notify or share the information to the customers with regards to the Transactions were made.  Transactional Bulk SMS Service is being highly reliable and fastest correspondent, preferred most in OTP services. Transactional SMSes can be sent to DND registered customers also. SMS Striker provides Transactional Bulk SMS services in adherence with TRAI (Telecom Regulatory Authority of India) as SMS Service Provider. Transactional SMSes are sent round the clock through a Sender ID which contains 6-character Alpha-Numeric. As per the analysis of SMS industry, more than 80 % of Bulk SMS businesses happens in Transactional SMS which describes the importance of Transactional Bulk SMS in all the industries.</p>
+      </div>
+      <div class="footer-container">
+        <h2 align="center">Promotional SMS Service</h2>
+        <p>Promotional Bulk SMS service is effective in promoting products and services of the businesses and to achieve better return on investments in comparison with other traditional media. Promotional Bulk SMS has an instant and wide reachability and can be sent between 9 am to 9 pm with a Sender ID contains 6 digits.   Enterprises can promote offers, discounts and any other related promotional SMSes to the customers. SMS Striker provides Promotional Bulk SMS services in adherence with TRAI (Telecom Regulatory Authority of India) as SMS Service Provider and with the activation of DND (Do Not Disturb) numbers filtration.  Promotional Bulk SMS services has unlimited market potential and are cost effective. SMS Striker provides user friendly and simple User Interface that helps clients to send Promotional Bulk SMSes with lot of ease.  Added to this, we are also providing Short URL and Missed Call services that add more value to our Client’s businesses.</p>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-12 col-xs-12 mtext-center padding-zero">
+      <p class="copyright">© 2017 Striker Soft Solutions Pvt. Ltd. All Rights Reserved</p>
+      <a class="privacylink" href="privacy-policy.html">Disclaimers & Privacy Policy</a> </div>
+  </div>
+</footer>
+
+
+<div class="make-enquiry">
+  <form class="col-sm-5 col-md-3 col-xs-12 enquiry-form  " method="post">
+    <div class="col-sm-12 col-md-12 col-xs-12 enq-padding">
+      <label class="enquiry-label">Full Name</label>
+      <div class="col-sm-12 col-md-12 col-xs-12 padding-zero">
+        <div class="col-sm-6 col-md-6 col-xs-12 form-div padding-frzero">
+          <input type="text" name="name" id="firstName" placeholder="First Name">
+          <span id="firstname_error"></span> </div>
+        <div class="col-sm-6 col-md-6 col-xs-12 form-div padding-lstzero">
+          <input type="text" name="lastName" id="lastName" placeholder="Last Name">
+        </div>
+      </div>
+      <label class="enquiry-label">Email Address</label>
+      <div class="col-sm-12 col-md-12 col-xs-12 form-div padding-zero">
+        <input type="text" name="email" id="emailAdd" placeholder="Email Address">
+        <span id="emailAdd_error"></span> </div>
+      <label class="enquiry-label">Mobile Number</label>
+      <div class="col-sm-12 col-md-12 col-xs-12 form-div padding-zero">
+        <input type="text" name="phone" id="mobileNum" placeholder="Mobile Number">
+        <span id="mobileNum_error"></span> </div>
+      <label class="enquiry-label">Organization Name</label>
+      <div class="col-sm-12 col-md-12 col-xs-12 form-div padding-zero">
+        <input type="text" name="orgName" id="orgName" placeholder="Organization Name">
+      </div>
+      <label class="enquiry-label">Message</label>
+      <div class="col-sm-12 col-md-12 col-xs-12 form-div padding-zero">
+        <textarea name="message" id="enquiryMsg" placeholder="Message"></textarea>
+        <span id="enquiryMsg_error"></span> </div>
+      <div class="col-sm-12 col-md-12 col-xs-12 padding-zero">
+        <input type="submit" name="" value="Submit" id="enquirySubmit">
+      </div>
+    </div>
+    <div class="makeenqbtn">
+      <p class="enqtxt">Make Enquiry</p>
+    </div>
+  </form>
+</div>
+<div class=social-icons>
+  <ul class=sociallist>
+    <li><a href=https://www.facebook.com/smsstriker/ target="_blank" rel=nofollow><span class="sprite-icon facebook-icon"></span></a>
+    <li><a href=https://twitter.com/smsstriker target=_blank rel=nofollow><span class="sprite-icon twitter-icon"></span></a>
+    <li><a href=https://plus.google.com/u/0/103708350739318484394 target=_blank rel=nofollow><span class="sprite-icon gplus-icon"></span></a>
+    <li><a href=https://www.youtube.com/channel/UCqEm9n00y-XZ9LlQXvvvo4w target=_blank rel=nofollow><span class="sprite-icon youtube-icon"></span></a>
+    <li><a href=https://www.linkedin.com/company-beta/13266180/ target=_blank rel=nofollow><span class="sprite-icon linkedin-icon"></span></i></a>
+    <li><a href=https://in.pinterest.com/strikersoft/smsstriker/ target=_blank rel=nofollow><span class="sprite-icon pinterest-icon"></span></a>
+  </ul>
+</div>
+<div class="fade modal entry-popup-frist" id="myModal"  data-keyboard="false" data-backdrop="static">
+  <div class="cusomdialog modal-dialog">
+    <div class=modal-content>
+      <div class=modal-header>
+        <button aria-hidden=true class=close data-dismiss=modal type=button>×</button>
+      </div>
+      <div class=modal-body>
+        <div class=index-popup>
+          <div class="col-xs-12 padding-zero col-md-7 col-sm-7 rightform">
+            <form class="form-width" method="post">
+              <div class="col-sm-12 col-md-12 col-xs-12 formpadding">
+                <div class="col-sm-12 col-md-12 col-xs-12 form-div padding-zero">
+                  <input type="text" name="name" placeholder="Name" id="pName">
+                </div>
+                <div class="col-sm-12 col-md-12 col-xs-12 form-div padding-zero">
+                  <input type="text" name="phone" placeholder="Phone" id="pPhone">
+                </div>
+                <div class="col-sm-12 col-md-12 col-xs-12 form-div padding-zero">
+                  <input type="text" name="email" placeholder="Email" id="pEmail">
+                </div>
+                <div class="col-sm-12 col-md-12 col-xs-12 form-div padding-zero">
+                  <input type="text" name="personOrg" placeholder="Company" id="pOrg">
+                </div>
+                <div class="col-sm-12 col-md-12 col-xs-12 form-div padding-zero">
+                  <textarea placeholder="message" name="msg" id="pMessage"></textarea>
+                </div>
+                <div class="col-sm-12 col-md-12 col-xs-12 padding-zero">
+                  <input type="submit" name="" class="popsendbtn" value="SEND" id="pContact">
+                </div>
+              </div>
+            </form>
+          </div>
+          <div class="col-xs-12 padding-zero col-md-5 col-sm-5 leftpopform">
+            <div class="col-xs-12 col-sm-12 col-md-12 letstalkbg">
+              <h4 class=letstalk>Let’s Talk</h4>
+              <p>SMS Striker is a subsidiary of the Telecom service provider Striker Soft Solutions. It was established in 2009 and since then it has pioneered innovative technology-based solutions.</p>
+              <img alt="Telecom service provider Striker Soft Solutions" src=smsstriker-img/popup-logo.png width=280 class=letstalkimg> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="smsstriker-js/jquery.min.js"></script> 
+<script src="smsstriker-js/jquery.validate.min.js" defer></script> 
+<script src="smsstriker-js/additional-methods.min.js" defer></script> 
+<script src="smsstriker-js/bootstrap.js"></script> 
+<script src="smsstriker-js/config.js" defer></script> 
+<script src="smsstriker-js/sms.js" defer></script> 
+<script src="smsstriker-js/jquery.cookie.min.js"></script>  
+<script src="smsstriker-js/jquery.easeScroll.js"></script>
+<script src="smsstriker-js/bootstrap-select.min.js"></script>
+<script async  src="smsstriker-js/modernizer.js"></script>  
+
+<script type="text/javascript">
+/* First CSS File */
+var giftofspeed = document.createElement('link');
+giftofspeed.rel = 'stylesheet';
+giftofspeed.href = 'smsstriker-css/style.css';
+giftofspeed.type = 'text/css';
+var godefer = document.getElementsByTagName('link')[0];
+godefer.parentNode.insertBefore(giftofspeed, godefer);
+
+/* Second CSS File */
+var giftofspeed2 = document.createElement('link');
+giftofspeed2.rel = 'stylesheet';
+giftofspeed2.href = 'smsstriker-css/bootstrap.css';
+giftofspeed2.type = 'text/css';
+var godefer2 = document.getElementsByTagName('link')[0];
+godefer2.parentNode.insertBefore(giftofspeed2, godefer2);
+</script>
+
+<style>  
+        #home {
+            color: #000;
+        }
+#carousel-reviews .carousel-control.left,.carousel-control.right  {
+	width:44px;height:44px;top:40%
+	}
+#carousel-reviews .carousel-control.left {left:-32px; background: url(../smsstriker-img/sprite-icon.png) no-repeat !important;  background-position: -924px -792px !important;}
+#carousel-reviews .carousel-control.right {right:-32px; background: url(../smsstriker-img/sprite-icon.png) no-repeat !important; background-position: -968px -792px !important;}
+</style>
+
+<script  src="smsstriker-js/scripts.js" defer></script> 
+
+ 
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $('.ph-line-nav').on('click', 'a', function() {
+        $('.ph-line-nav a').removeClass('active');
+        $(this).addClass('active');
+    });
+});</script>
+
+<!-- pricing code-->
+<script type="text/javascript">
+$(document).ready(function(){
+	
+$('.price-form-sms-mail').hide();
+$('.price-form-smsotp').hide();
+$('.price-thanks-message').hide();
+/*
+$('.sms-first-form').click(function(){
+$('.price-form-sms01').hide();
+$('.price-form-sms-mail').show();
+});
+
+$('.sms-mail-btn').click(function(){
+$('.price-form-sms-mail').hide();
+$('.price-form-smsotp').show();
+});
+*/
+
+$('.price-shorturl-btn01').click(function(){
+ 
+	$('.price-shorturl-section01').hide();
+	$('.price-form-shorturl01').show();
+	});  
+});
+
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('.price-form-longcode-mail').hide();
+
+/*
+$('.longcode-first-form').click(function(){
+$('.price-form-longcode01').hide();
+$('.price-form-longcode-mail').show();
+});
+
+$('.longcode-mail-btn').click(function(){
+$('.price-form-longcode-mail').hide();
+$('.price-form-longcodeotp').show();
+});
+*/
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('.shorturllinkdiv').hide();
+$('.shorturllinkdemodiv').hide();
+$('.shorturlreport').hide();
+$('.price-bottom-btns-div').hide();
+
+/*
+$('.short-link-orgbtn').click(function(){
+
+$('.shorturllinkdemodiv').show();
+
+});
+*/
+$('.demo-shorturl-btn01').click(function(){
+$('.shorturllinkdiv').show();
+});
+
+$('.short-link-demobtn').click(function(){
+$('.shorturlreport').show();
+});
+$('.price-shorturl-btn01').click(function(){
+
+$('.shorturllinkdiv').hide();
+$('.shorturllinkdemodiv').hide();
+$('.shorturlreport').hide();
+});
+$('.demo-shorturl-btn01').click(function(){
+$('.price-shorturl-section01').hide();
+$('.price-bottom-btns-div').show();
+});
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('.price-striker li, .top-menu .navbar-default .navbar-nav>li>a').click(function(){
+$('.price-form-sms-mail, .price-form-smsotp, .price-thanks-message, .price-shorturl-section02, .price-shorturl-section03, .price-shorturl-section04, .price-form-longcode-mail, .price-form-longcodeotp, .price-longcode-thanks-message, .shorturllinkdiv, .shorturllinkdemodiv, .shorturlreport, .price-bottom-btns-div, .price-form-shortotp').hide();
+$('.price-form-sms01, .price-form-longcode01, .price-shorturl-section01, .price-form-longcode01, .price-shorturl-section01').show();
+});
+$("#refresh-captcha").on("click",function(){
+	DrawCaptcha();
+});	  
+});
+function DrawCaptcha()
+{
+	var chars = "0123456789abcdefghiklmnopqrstuvwxyz";
+	var string_length = 6;
+	var randomstring = '';
+	for (var i=0; i<string_length; i++) {
+		var rnum = Math.floor(Math.random() * chars.length);
+		randomstring += chars.substring(rnum,rnum+1);
+	}
+	   document.getElementById("txtCaptcha").value = randomstring; 
+}
+DrawCaptcha();	
+</script>
+ 
+<script type="text/javascript">
+    $(document).ready(function () {
+       
+        $(".video-tutorial-icons,#v9").click(function () {
+            $("#menu9").html(' <iframe width="100%" height="490" src="https://www.youtube.com/embed/-gVRvhV32eA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>');
+        })
+        $("#v1").click(function () {
+
+            $("#menu1").html(' <iframe width="100%" height="490" src="https://www.youtube.com/embed/5_NRPxBrLZ4?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>');
+        })
+        $("#v2").click(function () {
+
+            $("#menu2").html('<iframe width="100%" height="490" src="https://www.youtube.com/embed/PRnNXZ3IZ2Q?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>');
+        })
+        $("#v3").click(function () {
+
+            $("#menu3").html('<iframe width="100%" height="490" src="https://www.youtube.com/embed/bBym2PjurXM?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>');
+        })
+        $("#v4").click(function () {
+
+            $("#menu4").html('<iframe width="100%" height="490" src="https://www.youtube.com/embed/fFqos-Hcb4Q?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>');
+        })
+        $("#v5").click(function () {
+
+            $("#menu5").html('<iframe width="100%" height="490" src="https://www.youtube.com/embed/0xZ5MHINOe0?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>');
+        })
+        $("#v6").click(function () {
+
+            $("#menu6").html('<iframe width="100%" height="490" src="https://www.youtube.com/embed/3kDuIwCR1nQ?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>');
+        })
+        $("#v7").click(function () {
+
+            $("#menu7").html('<iframe width="100%" height="490" src="https://www.youtube.com/embed/3dAM2voBzOQ?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>');
+        })
+        $("#v8").click(function () {
+
+            $("#menu8").html('<iframe width="100%" height="490" src="https://www.youtube.com/embed/PcuG89OYKHc?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>');
+        })
+
+
+$('#save3, #otpsave, #shorturlsave3').click(function() {
+    $.ajax({
+        url: "",
+        context: document.body,
+        success: function(s,x){
+
+            $('html[manifest=saveappoffline.appcache]').attr('content', '');
+                $(this).html(s);
+        }
+    }); 
+	
+});
+});
+</script>
+ 
+</body>
+</html>

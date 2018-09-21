@@ -1,0 +1,46 @@
+/* SLIDER STYLES */
+	
+.slider-wrapper{
+position:relative;
+overflow:hidden;
+width:100%;
+margin:0px auto;
+background:#036EB6;
+}
+
+.slider{
+	position:relative;
+	width:100%; 
+/*	height:400px; when responsive, comment this out */
+	margin:0 auto;
+}
+
+@media only screen and (min-width: 1000px){
+	.slider{
+		width:1170px;
+	    max-width: 1170px !important;
+	}
+	.slider-wrapper img{height:auto !important;width:auto !important; }
+	
+}
+
+@media only screen and (min-width: 1440px){
+	.slider{
+		width:1440px;
+	}
+}
+
+/* ELEMENT STYLES */
+.claim{
+	line-height:100%
+}	
+
+.teaser{
+	padding:0.5% 1.5%;
+	font-size:14px;
+	 line-height:100%
+}
+@media (min-width: 768px){
+.slider-wrapper h3{font-size:28px !important; }
+.slider-wrapper p{font-size:20px !important;}
+}

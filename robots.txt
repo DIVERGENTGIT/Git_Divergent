@@ -1,0 +1,16 @@
+User-Agent: *
+
+Disallow: /index
+Disallow: /application
+Disallow: /old
+Disallow: /API
+Disallow: /newpages
+Disallow: /cities_ajax
+Noindex: /index
+Noindex: /application
+Noindex: /old
+Noindex: /newpages
+Noindex: /cities_ajax
+Noindex: /API
+Disallow: /blog/wp-admin/
+Disallow: /blog/search  

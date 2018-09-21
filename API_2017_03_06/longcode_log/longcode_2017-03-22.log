@@ -1,0 +1,38 @@
+{"sender":"8367000060","dest":"9701019800","senttime":"2017-03-22"}
+{"sender":"8367000060","dest":"9701019800","senttime":"2017-03-22"}
+{"sender":"9701019800","dest":"8367000060","senttime":"2017-03-22"}
+{"sender":"9701019800","dest":"8367000060","senttime":"2017-03-22"}
+{"sender":"9701019800","dest":"8367000060","senttime":"2017-03-22"}
+{"sender":"9701019800","dest":"8367000060","senttime":"2017-03-22 10:03:51","body":"KRI from api to longcode integration"}
+{"sender":"9701019800","dest":"8367000060","senttime":"2017-03-22 10:03:51","body":"KRI from api to longcode integration"}
+{"sender":"9701019800","dest":"8367000060","body":"KRI from api to longcode integration","senttime":"2017-03-22 10:03:21"}
+{"sender":"9701019800","dest":"8367000060","body":"KRI from api to longcode integration2","senttime":"2017-03-22 10:03:38"}
+{"sender":"9701019800","dest":"8367000060","body":" from api to longcode integration2","senttime":"2017-03-22 10:03:04"}
+{"sender":"8688388672","dest":"8367000060","body":"KRI from api to longcode integration","senttime":"2017-03-22 10:03:27"}
+{"sender":"8688388672","dest":"8367000060","body":"KRI from api to hello","senttime":"2017-03-22 11:03:30"}
+{"sender":"8688388672","dest":"8367000060","body":"KRI from api to hello friends","senttime":"2017-03-22 11:03:35"}
+{"sender":"8688388672","dest":"8367000060","body":"KRI from api to hello friends2","senttime":"2017-03-22 11:03:21"}
+{"sender":"8688388672","dest":"8367000020","body":"MYCLS from API","senttime":"2017-03-22 12:03:12"}
+{"sender":"9701019800","dest":"8367000020","body":"MYCLS from API","senttime":"2017-03-22 12:03:24"}
+{"sender":"9701019800","dest":"8367000020","body":"MYCLS from API","senttime":"2017-03-22 12:03:01"}
+{"sender":"8886638806","dest":"8367000020","body":"MYCLS from API","senttime":"2017-03-22 12:03:28"}
+{"sender":"9701019800","dest":"8367000020","body":"MYCLS from API","senttime":"2017-03-22 12:03:52"}
+{"sender":"919063428591","dest":"8367000060","smsinfo":"","body":"KRI","senttime":"22\/03\/17 12:39:20 PM"}
+{"sender":"9701019800","dest":"8367000020","body":"MYCLS from API Longcode Test","senttime":"2017-03-22 12:03:08"}
+{"sender":"9701019800","dest":"8367000020","body":"MYCLS from API Longcode Test","senttime":"2017-03-22 12:03:55"}
+{"sender":"9701019800","dest":"8367000060","senttime":"2017-03-22 10:03:51","body":"KRI from api to longcode integration"}
+{"sender":"9701019800","dest":"8367000020","body":"MYCLS from API Longcode Test2","senttime":"2017-03-22 01:03:04"}
+{"sender":"9701019800","dest":"8367000020","body":"MYCLS from API Longcode Test2","senttime":"2017-03-22 01:03:04"}
+{"sender":"9701019800","dest":"8367000020","body":"MYCLS from API Longcode Test2","senttime":"2017-03-22 01:03:28"}
+{"sender":"9701019800","dest":"8367000020","body":"MYCLS from API Longcode Test3","senttime":"2017-03-22 01:03:53"}
+{"sender":"9701019800","dest":"8367000020","body":"MYCLS from API Longcode  krishna","senttime":"2017-03-22 01:03:56"}
+{"sender":"918328174699","dest":"8367000060","smsinfo":"","body":"","senttime":"22\/03\/17 01:33:26 PM"}
+{"sender":"918328174699","dest":"8367000060","smsinfo":"","body":"HI","senttime":"22\/03\/17 01:33:45 PM"}
+{"sender":"918328174699","dest":"8367000060","smsinfo":"","body":"KRI","senttime":"22\/03\/17 01:33:59 PM"}
+{"sender":"917981127533","dest":"8367000060","smsinfo":"","body":"Kri","senttime":"22\/03\/17 04:31:22 PM"}
+{"sender":"917981127533","dest":"8367000060","smsinfo":"","body":"KRI","senttime":"22\/03\/17 04:32:49 PM"}
+{"sender":"917981127533","dest":"8367000060","smsinfo":"","body":"TESET","senttime":"22\/03\/17 04:36:09 PM"}
+{"sender":"917981127533","dest":"8367000040","smsinfo":"","body":"TESET","senttime":"22\/03\/17 04:37:29 PM"}
+{"sender":"917981127533","dest":"8367000040","smsinfo":"","body":"TESET","senttime":"22\/03\/17 04:43:58 PM"}
+{"sender":"917981127533","dest":"8367000060","smsinfo":"","body":"KRI","senttime":"22\/03\/17 04:49:37 PM"}
+{"sender":"917981127533","dest":"8367000060","smsinfo":"","body":"KRI HI HOW ARE U","senttime":"22\/03\/17 04:54:44 PM"}

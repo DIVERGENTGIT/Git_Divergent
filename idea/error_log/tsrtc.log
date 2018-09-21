@@ -1,0 +1,3451 @@
+insert into sms_messages SET
+		message = '5 07z4008 hitchcity',
+		message_from = '919701019800',
+		service_number = '8886638800',
+		message_time = '2017-01-21 03:34:32',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-21 03:38:47',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-21 03:38:53',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '2 28Z3883 Gachibowli',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-21 03:39:13',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-21 03:39:23',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '2 07Z4008 Gachi Hyd',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-21 03:39:43',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-21 03:42:17',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '2 07Z4008 Gachi Hyd',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-21 03:42:33',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '2 28Z3883 Gachibowli',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-21 03:42:54',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '2 AP28Z3883 Gachibowli',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-21 03:43:18',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-21 04:53:33',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-23 07:56:54',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225229',
+		service_number = '8886638800',
+		message_time = '2017-01-23 09:20:24',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '2 AP28Z3883 Gachibowli',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-23 11:44:09',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-23 11:44:35',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '2 AP28Z3883 Gachibowli',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-23 02:41:32',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-23 02:41:54',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '2 07Z4008 Gachi Hyd',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-23 02:42:06',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '?',
+		message_from = '917989333431',
+		service_number = '8886638800',
+		message_time = '2017-01-23 02:49:58',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '?',
+		message_from = '919963528333',
+		service_number = '8886638800',
+		message_time = '2017-01-23 03:06:03',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '?',
+		message_from = '917799995025',
+		service_number = '8886638800',
+		message_time = '2017-01-23 03:17:48',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '?',
+		message_from = '917799995025',
+		service_number = '8886638800',
+		message_time = '2017-01-23 03:37:18',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '?',
+		message_from = '917799995025',
+		service_number = '8886638800',
+		message_time = '2017-01-23 04:22:10',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '?',
+		message_from = '917799995025',
+		service_number = '8886638800',
+		message_time = '2017-01-23 04:44:29',
+		smscinfo= '',
+		user_id = '4724' Response: 
+insert into sms_messages SET
+		message = '?',
+		message_from = '917799995025',
+		service_number = '8886638800',
+		message_time = '2017-01-24 11:01:36',
+		smscinfo= '',
+		user_id = '4724' Response: Feedback Codes Are: 
+1-Crew Misbehaviour
+2-Rash Driving
+3-Punctuality of Service
+4-Cleanliness of Bus
+5-Not stopping in Bus Stop
+6-AC Not Working
+7-Stopping at Unauthorized place
+8-Unclean blankets in AC buses
+9-Change Not Tendered
+20-Toilets in Bus Station closed
+21-Unclean Toilets in Bus Station
+22-Items being sold at more than MRP
+23-Theft in Bus Station
+24-Bus Station not clean
+insert into sms_messages SET
+		message = '2 APZ3883 Gachibowli',
+		message_from = '917799995025',
+		service_number = '8886638800',
+		message_time = '2017-01-24 11:04:40',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 AP28Z3883 Gachibowli',
+		message_from = '917799995025',
+		service_number = '8886638800',
+		message_time = '2017-01-24 11:30:22',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917799995025',
+		service_number = '8886638800',
+		message_time = '2017-01-24 11:30:58',
+		smscinfo= '',
+		user_id = '4724' Response: Feedback Codes Are: 
+1-Crew Misbehaviour
+2-Rash Driving
+3-Punctuality of Service
+4-Cleanliness of Bus
+5-Not stopping in Bus Stop
+6-AC Not Working
+7-Stopping at Unauthorized place
+8-Unclean blankets in AC buses
+9-Change Not Tendered
+20-Toilets in Bus Station closed
+21-Unclean Toilets in Bus Station
+22-Items being sold at more than MRP
+23-Theft in Bus Station
+24-Bus Station not clean
+insert into sms_messages SET
+		message = '2 AP28Z3883 Gachibowli',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-24 02:11:22',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-24 02:11:38',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 07Z4008 Gachi Hyd',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-24 02:12:10',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS16Z0024',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-24 02:14:48',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 TS16Z0024 THUB HYD',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-24 02:15:30',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225229',
+		service_number = '8886638800',
+		message_time = '2017-01-24 05:38:07',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-25 11:35:50',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 TS16Z0024 THUB HYD',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-25 11:36:12',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS16Z24 THUB HYD',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-25 03:25:28',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS16Z0024 THUB HYD',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-25 03:27:19',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225229',
+		service_number = '8886638800',
+		message_time = '2017-01-25 03:43:41',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-02-14 12:59:28',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS16Z0024 THUB HYD',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-02-14 12:59:40',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 TS16Z0024 THUB HYD',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-02-14 01:00:44',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225229',
+		service_number = '8886638800',
+		message_time = '2017-02-19 04:46:54',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917286064444',
+		service_number = '8886638800',
+		message_time = '2017-02-21 03:33:13',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-02-21 03:36:43',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 TS16Z0024 THUB HYD',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-02-21 03:40:47',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-02-21 03:47:39',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-02-21 03:51:02',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225229',
+		service_number = '8886638800',
+		message_time = '2017-02-23 09:49:29',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918639151768',
+		service_number = '8886638800',
+		message_time = '2017-02-24 03:20:23',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-03-07 10:33:21',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS16Z0024 THUB HYD',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-03-07 10:33:37',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-03-07 03:09:56',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-03-07 03:24:39',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225229',
+		service_number = '8886638800',
+		message_time = '2017-03-07 03:25:37',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS16Z0024 THUB HYD',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-03-19 08:37:16',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-03-19 08:37:26',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-03-20 08:19:52',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS16Z0024 THUB HYD',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-03-20 08:20:28',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS16Z0024 THUB 21/02/2017 10:00 HYD',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:00:56',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS16Z0024 THUB 21stfeb2017  HYD',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:01:46',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS16Z0024 THUB,21/02/2017 10:00 HYD',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:04:52',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS16Z0024 THUB 21/02/2017,10:00',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:10:14',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS16Z0024 ABCDEFGHIJKL,21/02/2017,10:00',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:11:38',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS16Z0024 ABCDEFGHIJKL,21/02/2017,10:00 HYDERABAD',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:12:18',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS29Z0920 HAKIMPET,20/03/2017,12:18 ADDITIONAL',
+		message_from = '918885725422',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:20:33',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS29Z0920 hpt, 20/3/2017,12.05 need immed',
+		message_from = '919959226120',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:20:35',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918885725422',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:22:47',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 11Z545 HAKIMPET',
+		message_from = '917382924742',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:23:03',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226139',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:23:21',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382826119',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:23:27',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226138',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:23:39',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2',
+		message_from = '919949630078',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:23:47',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '211z633520/03/201712:22',
+		message_from = '917093992216',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:23:49',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226136',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:24:21',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917013556950',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:24:31',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918309540340',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:24:49',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382808488',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:24:49',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '311z6335cgcl20/030201712:26',
+		message_from = '917093992216',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:26:23',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 ts29z1114 afzalgunj,20/3/2017,11.30am pl take action',
+		message_from = '919959226136',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:26:05',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS09Z 7659 lakdikapool',
+		message_from = '917013556950',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:25:33',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382839276',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:25:24',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226140',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:25:15',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 Ts07z4003 Midhani,20.03.2017,12:36 for action',
+		message_from = '919959226139',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:37:22',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225118',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:38:14',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 Ts09z7662 uppal 20.03.2017 11.30am for n/a',
+		message_from = '919959226140',
+		service_number = '8886638800',
+		message_time = '2017-03-20 12:40:24',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918885725422',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:35:59',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382800870',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:36:22',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919493214250',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:36:44',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919949536728',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:36:44',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918919227078',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:36:42',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226252',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:36:48',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919505462002',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:36:52',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226301',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:36:52',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382829619',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:36:52',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382933811',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:36:58',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382924899',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:36:58',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382924743',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:37:04',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226242',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:37:04',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '? ',
+		message_from = '919959226268',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:37:10',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918919633617',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:37:10',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226305',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:37:12',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919505952095',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:37:22',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226267',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:37:20',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '7',
+		message_from = '917382832672',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:37:32',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225547',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:37:32',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226309',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:37:30',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382817331',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:37:36',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382919948',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:37:50',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226310',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:37:56',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = 'SMS',
+		message_from = '919959226306',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:38:02',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '??',
+		message_from = '919959226308',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:38:06',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917893001055',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:38:10',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917989225791',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:38:20',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918317549317',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:38:20',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225120',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:38:20',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226271',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:38:26',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226308',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:38:24',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959223871',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:38:24',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919866314253',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:38:28',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917989707938',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:38:46',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382945153',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:38:46',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917989225791',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:38:48',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919492179462',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:38:48',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225253',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:38:58',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918247775880',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:39:00',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382832672',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:39:04',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226263',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:39:16',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382834487',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:39:16',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918317589742',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:39:32',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = 'Sms',
+		message_from = '919959226306',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:39:36',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382834912',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:40:02',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919491556663',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:40:24',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP29Z1224KPHB',
+		message_from = '917382919948',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:40:50',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226263',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:40:50',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2',
+		message_from = '917989225791',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:41:08',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 Ap36z0230 parkal',
+		message_from = '919949536728',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:41:14',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP28Z0019 GAJWEL',
+		message_from = '918919227078',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:41:44',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS29Z2610 Hyderabad-1',
+		message_from = '919959226268',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:41:46',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP29Z1224 KPHB',
+		message_from = '917382919948',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:41:46',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 ts29z2610 bhonogir driverdrunken',
+		message_from = '919959226301',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:41:54',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '4 TS29Z2610HAKIMPET,20/03/2017,14:42PM "BUS NOT CLEANED"',
+		message_from = '917382829619',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:42:47',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '8886638800',
+		message_from = '919959226251',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:42:53',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '9 TS29Z2610 mendapatkan,20/03/17,14:42',
+		message_from = '917382945153',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:43:13',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP28Z1127 hakimpet,20/03/2017,14:44 requiredcleaningofbus',
+		message_from = '918919633617',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:43:35',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '8886638800 ?',
+		message_from = '919959226251',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:43:33',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 ts050149 khammam 20/03/2017,14.45 negligent',
+		message_from = '919959226309',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:43:41',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS29Z2610 INSIDENT LOCATION,19.00hrs 20.03.2017',
+		message_from = '918919837686',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:43:39',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS29Z2610 DSNR Dt time very rash',
+		message_from = '919959226263',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:43:39',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS29Z2610tolichowki,20/03/2017,14:42 very rash',
+		message_from = '918885725422',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:43:39',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 ap29z 1785  jadcherla , 20.3.2017, 14.40  bad',
+		message_from = '919959223871',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:43:37',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 AP29Z653 Mgbs 20/03/2017,7:00,very rough driving',
+		message_from = '918247775880',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:43:43',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '9 TS29Z2610 mehdipatnam,20/03/17,14:42',
+		message_from = '917382945153',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:43:51',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 ap24z0072 hakimpet',
+		message_from = '917989225791',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:43:53',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 Ts29z2610  Hyderabad,20-03-2017,14:42',
+		message_from = '919959226252',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:44:01',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '4 ts07z0630 MBNR, 20/03/17,15:30 bad boy driving your bus',
+		message_from = '919959225120',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:43:57',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 Ts29Z2610 Mehdipatnam 20/03/2017, 14:42 very rash',
+		message_from = '919959225547',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:44:11',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS07Z4079 hakeempet 20/03/2017,14:42 unpunctual',
+		message_from = '919493024742',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:44:21',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP28Z0019 GAJWEL,20.3.17,unpuctual',
+		message_from = '918919227078',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:44:19',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '5 AP23Z0019 alwal, 20.03.2017,13:50 bus not stopped',
+		message_from = '918317549317',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:44:27',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS29Z2610tolichowki,20/03/2017,14:42 veryrash',
+		message_from = '918885725422',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:45:01',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS29Z2610 tollichowk, 20/03/2017, 14:42 very rash driving',
+		message_from = '919959226310',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:45:05',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS15Z0135 HYD , 20/03/2017, 14.43 Vr',
+		message_from = '918317589742',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:45:13',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 ap11z5020 ygt,20/03/2017,14.30',
+		message_from = '917382800870',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:45:19',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '4 ts07z0630 MBNR, 20/03/17,15:30 badboydrivingyourbus',
+		message_from = '919959225120',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:45:27',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2AP24Z106 hakimpet20/03/2017,14.43 veryrash',
+		message_from = '919492179462',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:45:27',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 ts29z2610 koti',
+		message_from = '917382924899',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:45:25',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 ts29z2610 mehdipatnam,20.03.2017,14:00',
+		message_from = '919959226267',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:45:33',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '5 AP29TA5005 shankarpally,20/03/2017,14.00',
+		message_from = '919491556663',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:45:51',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2,  ts5ua ,nlg',
+		message_from = '919866314253',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:45:59',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '5 AP23Z0019 alwal,20.03.2017,13:50, busnotstopped',
+		message_from = '918317549317',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:45:59',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP29Z3461 HYD',
+		message_from = '919493214250',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:46:13',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2,AP11Z1988,nalgonda 20/03/20172:44,very and rush hour',
+		message_from = '919505952095',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:46:13',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 AP36Z0230 parkal',
+		message_from = '919949536728',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:46:29',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 ap29z1785  jadcherla , 20.3.2017, 14.40',
+		message_from = '919959223871',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:46:29',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS29Z2510 hakimpet, 20/03/2017,14.30',
+		message_from = '917989225791',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:46:37',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS29Z2610 Hyderabad-1 20/3/2017 rashdriving',
+		message_from = '919959226268',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:46:43',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '4 TS29Z2610HAKIMPET,20/03/2017,14:42PM "BUSNOTCLEANED"',
+		message_from = '917382829619',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:46:39',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918317549317',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:46:59',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP28Z1127 hakimpet,20/03/2017,14:44 requiredcleaningofbus',
+		message_from = '918919633617',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:47:05',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 28Z 4046 BSB DT 20/3/17time .16 00 HRS',
+		message_from = '919959226251',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:47:17',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2,AP11Z1988,nalgonda 20/03/20172:44,veryandrush',
+		message_from = '919505952095',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:47:25',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS29Z2610 Tolichowki test',
+		message_from = '918885725422',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:47:31',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS29Z2510 hakimpet, 20/03/2017',
+		message_from = '917989225791',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:47:41',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 AP11Z2172 kothapet test',
+		message_from = '917382800870',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:47:47',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 Ap36z0230parkal',
+		message_from = '919949536728',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:47:45',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '4 TS29Z2610 HAKIMPET,20/03/2017,14:42 BUSNOTCLEANED',
+		message_from = '917382829619',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:47:51',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2AP29Z106 hakimpet20/03/2017,14.45 veryrash',
+		message_from = '919492179462',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:48:01',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 28Z 4046 BSB DT 20/3/17time .16 00 HRS',
+		message_from = '917382839127',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:48:19',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '5 Ts15z0136 ptc,20.03.17,14.45',
+		message_from = '917382924743',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:48:17',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 ap29z1785  jadcherla 20.3.2017 13.40',
+		message_from = '919959223871',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:48:15',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '5 AP23Z0019 alwal,20.03.2017,13:50, busnotstopped',
+		message_from = '918317549317',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:48:39',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP28Z1127 hakimpet  requiredcleaningofbus',
+		message_from = '918919633617',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:48:53',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '5 AP29TA5005 shankarpally',
+		message_from = '919491556663',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:49:09',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 AP36Z0230 parkal 20/03/2017,14:49',
+		message_from = '919949536728',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:49:17',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2  ap24z 0050, rash driving, uppal 13.40',
+		message_from = '919866314253',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:49:53',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '6 TS15Z1234 HYDERABAD',
+		message_from = '917989225791',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:49:51',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP29Z1224 KPHB 20/03/17 11.20',
+		message_from = '917382919948',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:50:45',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '6 TS15Z1234 HYDERABAD',
+		message_from = '917989225791',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:50:59',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP29Z3448 NGKL',
+		message_from = '919493214250',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:51:29',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2  ap24z 0050, rash driving, uppal 13.40',
+		message_from = '919866314253',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:52:19',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '4 TS07Z4079 HAKIMPET',
+		message_from = '919491556663',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:52:53',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '6',
+		message_from = '917989225791',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:54:41',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917989225791',
+		service_number = '8886638800',
+		message_time = '2017-03-20 02:55:21',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 ap29z2610 abids',
+		message_from = '917382800870',
+		service_number = '8886638800',
+		message_time = '2017-03-20 03:03:52',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 ts20z0071 abids',
+		message_from = '917382800870',
+		service_number = '8886638800',
+		message_time = '2017-03-20 03:07:14',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = 'Rash driving à°¬à°¸à±à°¸à±à°¨à±‡à°.2236 mallpally',
+		message_from = '919866314253',
+		service_number = '8886638800',
+		message_time = '2017-03-20 03:38:27',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919866314253',
+		service_number = '8886638800',
+		message_time = '2017-03-20 03:39:35',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS16Z0024 THUB 20/03/2017 14:52',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-03-20 03:45:23',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS16Z0024 THUB 20/03/2017,14:52',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-03-20 03:47:03',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '4 TS20Z0071 Toli 20/03/2017 16:55',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-03-20 04:55:42',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225547',
+		service_number = '8886638800',
+		message_time = '2017-03-20 07:01:52',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '9 ts29z2610 Mehdipatnam 20/03/2017 18:00',
+		message_from = '919959225547',
+		service_number = '8886638800',
+		message_time = '2017-03-20 07:06:14',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382834982',
+		service_number = '8886638800',
+		message_time = '2017-03-21 09:56:13',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-03-21 09:59:01',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918885725422',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:39:11',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918309614972',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:39:26',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917013493872',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:39:46',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919849417357',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:39:52',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917569777780',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:39:57',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919059162162',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:39:59',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226131',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:02',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226087',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:04',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = 'Codes',
+		message_from = '919959223920',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:04',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382095204',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:10',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919966981056',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:10',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919618526567',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:12',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918074762393',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:14',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382828101',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:16',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919493210071',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:18',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226152',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:18',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917989640860',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:18',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2',
+		message_from = '918317673146',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:27',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382827596',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:27',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226129',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:27',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226290',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:29',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382826910',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:31',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382858865',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:35',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959223920',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:39',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382813106',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:47',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918309489656',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:49',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959746419',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:51',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226283',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:40:58',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226151',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:41:07',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959224495',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:41:21',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382821799',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:41:21',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959224642',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:41:40',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382819410',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:42:05',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226151',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:42:27',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '4 TS06Z0188 kollapur cleanliness of bus',
+		message_from = '919966981056',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:42:39',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '02',
+		message_from = '917382827596',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:44:26',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 11z5111 kcg x road',
+		message_from = '917013493872',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:44:32',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS11Z7188 Shaikpet,21/03/2017,10:15 stopping',
+		message_from = '918309614972',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:45:06',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = 'Ap29z0765',
+		message_from = '917382827596',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:45:10',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP11z5111 kcg x road',
+		message_from = '917013493872',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:45:37',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS11Z7355 Afjulgunj,21/03/2017,10:45',
+		message_from = '919959226129',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:46:07',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382800974',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:46:34',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS11Z7188 shaikpet 21/03/2017 10:46',
+		message_from = '917382826910',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:46:36',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382835992',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:47:25',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 ts11z7188 shaikpet',
+		message_from = '917569777780',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:47:39',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382837166',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:47:43',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS11Z7188 shaikpet 21/03/2017,10:46 bus condition is not good',
+		message_from = '917382826910',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:50:15',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS11Z7188 SHAIKPET,21/03/17,10:15 STOPPING',
+		message_from = '918885725422',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:50:20',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382813106',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:50:20',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918317673146',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:50:44',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 AP29Z1100 suchitra',
+		message_from = '919959226152',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:51:49',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 ap11z6559 koti',
+		message_from = '919493210071',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:53:17',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226151',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:53:21',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS11Z7188 SHAIKPET, 21/03/2017,10:15  stopping',
+		message_from = '917989640860',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:53:27',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '9 TS29Z1115 afjalgung not given change 21.00',
+		message_from = '918317673146',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:53:57',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382822513',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:54:50',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '6 TS07z4072 kukatpally A.C. working',
+		message_from = '917382862078',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:55:49',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226420',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:56:04',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 ts29z1115 crmr ok',
+		message_from = '917382813106',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:56:09',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS06Z0183 ACHAMPET',
+		message_from = '919849417357',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:56:48',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918500503719',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:58:27',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS07Z4008 NIMS',
+		message_from = '918500503719',
+		service_number = '8886638800',
+		message_time = '2017-03-21 10:59:49',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '9 TS09Z7632 Airport',
+		message_from = '919959226420',
+		service_number = '8886638800',
+		message_time = '2017-03-21 11:00:45',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '9 AP29Z867 CHANDRAYANGUTTA',
+		message_from = '918500503719',
+		service_number = '8886638800',
+		message_time = '2017-03-21 11:05:27',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = 'Punctuality nkp depot dt20.03-2017.to B orp 50.can nil.opr 50.late .nil..On dot 50..-..-.. -..-..- .',
+		message_from = '917382834589',
+		service_number = '8886638800',
+		message_time = '2017-03-21 01:13:24',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382834589',
+		service_number = '8886638800',
+		message_time = '2017-03-21 01:15:30',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = 'Test',
+		message_from = '917012936558',
+		service_number = '8886638800',
+		message_time = '2017-03-22 01:52:21',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '4 TS20z0071 Tolichowki 22/03/2017,10:38',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:38:49',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225923',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:55:33',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226707',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:56:05',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225916',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:56:07',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382856110',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:56:11',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382846720',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:56:21',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226048',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:56:35',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382852903',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:56:41',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382852316',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:56:51',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382841997',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:56:55',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225922',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:56:57',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919490781185',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:57:03',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918885725422',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:57:03',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 ts11z0845 koti',
+		message_from = '919959226047',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:58:03',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918328367838',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:58:35',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382854316',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:58:37',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382832349',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:58:41',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918328190147',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:58:45',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226047',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:58:53',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '??',
+		message_from = '917382851280',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:59:13',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = 'SIR BUSES ARE RUNNING  BUNCHES NOT COMING IN TIME',
+		message_from = '917382840809',
+		service_number = '8886638800',
+		message_time = '2017-03-22 10:59:51',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919000014620',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:00:05',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 TS03Z0002 WL',
+		message_from = '918328190147',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:00:09',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS02Z8046 Faluknama',
+		message_from = '919959225922',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:00:11',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 ap11z1990 trr depot',
+		message_from = '918328367838',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:00:17',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '6 ap29z 2935 korutla',
+		message_from = '919959225916',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:00:19',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS25Z0012 BHUPALAPALLY',
+		message_from = '919959226707',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:00:53',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '#',
+		message_from = '919676186759',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:00:53',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382847743',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:01:09',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '8 TS03Z0313 WARANGAL ATTENTION',
+		message_from = '919490781185',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:01:11',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2',
+		message_from = '919676186759',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:01:27',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917989062462',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:02:25',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS10Z5939 WARANGAL',
+		message_from = '919959226048',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:02:25',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226042',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:02:39',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 ts02z 195 huzurabad',
+		message_from = '919866117385',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:02:59',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS10Z5939 WARNGAL 22/03/2017,1103',
+		message_from = '918885725422',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:03:21',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP36Z0213 JANGAON',
+		message_from = '917382852903',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:03:23',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382848657',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:03:27',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 AP29Z0079 Warangal',
+		message_from = '919676186759',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:03:31',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS10Z 5939 Warangal, 22/03/2017',
+		message_from = '919959225922',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:04:11',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP29Z3340 Warangal 22/03/2017,11.05',
+		message_from = '917382852316',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:04:23',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382846356',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:04:27',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS10Z5939 WARNGAL. 22/03/2017,1103',
+		message_from = '917382851280',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:04:47',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 ts03z0309 warangal',
+		message_from = '919959226047',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:05:03',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS 02Z 0209 SIDDIPET',
+		message_from = '919959225923',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:05:11',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '6 ap29z2935 korutla',
+		message_from = '919959225916',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:05:13',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS 10Z5939 Warangal 22.03.2017.11.05',
+		message_from = '917382846720',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:05:15',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '4 1224 gdk',
+		message_from = '917382841997',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:05:19',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 ap11z1990 thorrur',
+		message_from = '918328367838',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:05:35',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919491419040',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:05:53',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '6 ap29z 3338 karimnagar',
+		message_from = '919959225916',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:06:27',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS10Z5939 warangal 22.03.17 11.06',
+		message_from = '918328190147',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:06:35',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919866117385',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:06:41',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '6 ap29z3338 karimnagar',
+		message_from = '919959225916',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:06:47',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '6 ts03z0309 wgl',
+		message_from = '919959226042',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:06:59',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS27Z0002 THORRUR 22.03.2017,12:00',
+		message_from = '919491419040',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:07:09',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS10Z5939 Warangal, 22/03/2017',
+		message_from = '919959225922',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:07:11',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '4 ts22z0284 gdk',
+		message_from = '917382841997',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:07:25',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 11Z1452 warangal 1130',
+		message_from = '917382832349',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:07:31',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS10Z7685 Warangal',
+		message_from = '919959226049',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:07:39',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = 'Hi',
+		message_from = '919959226051',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:07:53',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 29z3363 Warangal',
+		message_from = '917382854316',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:07:55',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '8 TS10Z7685 WARANGAL ATTENTION',
+		message_from = '919490781185',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:07:57',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 ts11z7685 subedari',
+		message_from = '917989062462',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:08:01',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS03Z0293 warangal DT:22/3/17',
+		message_from = '919000094089',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:08:03',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS10Z7685 suberi',
+		message_from = '918328367838',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:08:03',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 TS29Z0633 Hanamkonda,22/03/17',
+		message_from = '917382852316',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:08:09',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '4 TS10Z7685 SUBEDARI',
+		message_from = '917382847743',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:08:11',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS1OZ7685 SUBEDARI',
+		message_from = '917382852903',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:08:21',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS10Z7685 RAMNAGAR',
+		message_from = '919959225915',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:08:23',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917780179172',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:08:39',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '6 ts29z 3338 karimnagar',
+		message_from = '919959225916',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:08:43',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 ts10z7685 subedari',
+		message_from = '919959226050',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:08:47',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP11Z1452 warangal 1130',
+		message_from = '917382832349',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:08:55',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 Ts 21z oo32 mallial',
+		message_from = '919959225925',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:09:03',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS10Z7685 Subedari',
+		message_from = '918885725422',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:09:09',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 AP29Z 225 HNK STOPPING',
+		message_from = '917382840809',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:09:13',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 ts10z7685 subedari',
+		message_from = '917989062462',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:09:22',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '6 ts29z3338 karimnagar',
+		message_from = '919959225916',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:09:32',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3ts10z5939parkala',
+		message_from = '919959226051',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:09:34',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382926156',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:10:04',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 ts10z0004 parkala',
+		message_from = '919959226051',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:10:54',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '4 TS02Z0282 Siricilla dt 21/03/17',
+		message_from = '919676186759',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:11:10',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '9 TS29Z1508 THORRUR 22.03.2017,11:00',
+		message_from = '919491419040',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:11:14',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS21Z0021 HYD 1105',
+		message_from = '917989526607',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:11:36',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS10Z5939 KARIMNAGAR',
+		message_from = '917382926156',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:12:04',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP28Z1452 warangal,1130',
+		message_from = '917382832349',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:12:32',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TSX 1818 THORRUR',
+		message_from = '918328367838',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:12:54',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP28Z1452 warangal,1130',
+		message_from = '917382832349',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:13:12',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS21Z0021 HYD  22/03/2017 1105',
+		message_from = '917989526607',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:13:48',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '4 AP21Z0185 GODAVARIKHANI',
+		message_from = '917382841997',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:14:46',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP29Z1452 warangal,1130',
+		message_from = '917382832349',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:14:46',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP29Z2011 thorrur',
+		message_from = '918328367838',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:14:48',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918328011095',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:15:51',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS21Z0021 HYD  22/03/2017 1105',
+		message_from = '917989526607',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:16:27',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '9 TS10Z5939 WARANGAL',
+		message_from = '918328011095',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:16:43',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS02Z0209 THURKAPALLY',
+		message_from = '919959225923',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:16:59',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 AP28Z3307 PEDDAPALLI',
+		message_from = '919959225923',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:21:37',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP29Z1452 warangal,11:30',
+		message_from = '917382832349',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:24:13',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2ts02z206hyd.',
+		message_from = '919492903570',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:25:09',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS1OZ7685 SUBEDARI',
+		message_from = '917382852903',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:54:51',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382832349',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:57:49',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP29Z1089 warangal, 11:40',
+		message_from = '917382832349',
+		service_number = '8886638800',
+		message_time = '2017-03-22 12:00:11',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS21Z0373 ADALATH',
+		message_from = '917382852903',
+		service_number = '8886638800',
+		message_time = '2017-03-22 12:13:37',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 AP29Z1089 WARANGAL,DIRTY',
+		message_from = '917382832349',
+		service_number = '8886638800',
+		message_time = '2017-03-22 12:13:51',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918885725422',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:18:39',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918885725422',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:18:43',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919440895769',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:57:21',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382847035',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:57:27',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918885725422',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:58:13',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225960',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:58:23',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919966794237',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:58:29',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226020',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:58:31',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382843033',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:58:33',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918317509087',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:58:37',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917780716329',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:58:39',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?J.V.BABU,DM,TSRTC, SATHUPALLY',
+		message_from = '919959225962',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:58:45',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917013811955',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:58:45',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225963',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:58:47',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919704234693',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:58:51',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918919947745',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:58:53',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226016',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:58:55',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226018',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:59:05',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918074692282',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:59:07',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382840319',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:59:11',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225959',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:59:11',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918328572760',
+		service_number = '8886638800',
+		message_time = '2017-03-22 02:59:41',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = 'O2 28z1013  mncl  attend immeadiatly',
+		message_from = '919959225998',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:00:05',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919866299922',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:00:09',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225962',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:00:35',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 11z 170',
+		message_from = '917382854968',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:00:49',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919491531283',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:00:49',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225118',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:00:55',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 28z0094 Kmm',
+		message_from = '919704234693',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:01:09',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 Ap29z187 KAMAREDDY',
+		message_from = '919959226018',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:01:39',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918309333670',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:01:49',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = 'To',
+		message_from = '917013110176',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:01:53',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '02  ts10z7336',
+		message_from = '919959225959',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:02:45',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '4 AP25Z0100 BANSWADA',
+		message_from = '918328572760',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:04:11',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 TS20Z0087 Kmm',
+		message_from = '919704234693',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:04:35',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '4 AP25Z0100 NIZAMABAD',
+		message_from = '918328600771',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:04:43',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 TS20Z0087 Subedar',
+		message_from = '918885725422',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:05:13',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 Ap29z187 KAMAREDDY',
+		message_from = '919959226018',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:05:15',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 07Z0040 nzb',
+		message_from = '917013811955',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:05:39',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS 10z7685 subedar',
+		message_from = '918919947745',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:05:49',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 TS20Z0015 parkal',
+		message_from = '918074692282',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:05:57',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 TS 28Z 1013',
+		message_from = '919959225998',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:06:01',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 TS04Z0087 SUBEDAR',
+		message_from = '919966794237',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:06:11',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS20Z4680 Hyderabad',
+		message_from = '917780716329',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:06:51',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS16Z0110 JBS',
+		message_from = '917382845955',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:06:53',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 ap01z0040 nirmal',
+		message_from = '917382840319',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:06:55',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 AP07Z0040 nzb',
+		message_from = '917013811955',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:07:48',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS20Z0121 Hyderabad',
+		message_from = '917780716329',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:08:16',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '4',
+		message_from = '917013110176',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:08:30',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 TS02z0087 KAMAREDDY',
+		message_from = '919959226018',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:08:30',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918919947745',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:08:32',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 TS20Z0087 WARANGAL',
+		message_from = '918328572760',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:08:34',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS20Z0115 HANMAKONDA',
+		message_from = '919491531283',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:08:34',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 TS21Z0199 SUBEDAR',
+		message_from = '919966794237',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:08:46',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225954',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:08:44',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '4 TS20Z0087 NIZAMABAD',
+		message_from = '918328600771',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:08:48',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS29Z3346 warangal',
+		message_from = '919959226020',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:09:06',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 tso20z0015 nizamabad',
+		message_from = '919959226012',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:09:06',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 ap29Z0179 mosra',
+		message_from = '917382924748',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:09:10',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '3 TS21Z0199 Wgl',
+		message_from = '917382840319',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:09:12',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS2OZ0087 KTDM',
+		message_from = '919959225959',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:09:20',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 ts02z0115 warangal',
+		message_from = '917382847035',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:09:22',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1',
+		message_from = '919989114011',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:09:28',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS20Z0096 WARANGAL',
+		message_from = '919440895769',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:09:40',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 TS20Z0087 SUBEDAR',
+		message_from = '919966794237',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:09:54',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS20Z0087 Warangal',
+		message_from = '917013755841',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:10:06',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 TS04Z0144 khammam',
+		message_from = '919959225962',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:10:22',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918639519720',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:10:34',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959226012',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:10:36',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = 'Ts20z0115  khammam',
+		message_from = '917702399910',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:11:04',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS01 102 Karimnagar',
+		message_from = '917382847035',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:11:26',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 ts20z0116 kmm',
+		message_from = '919959225954',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:11:59',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '4 TS 20z0087 subedar',
+		message_from = '918919947745',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:12:13',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 TS 28Z 0116 hyd',
+		message_from = '919959225998',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:13:23',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 TS010108 Armoor',
+		message_from = '917382800975',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:13:31',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 TS 28Z 116',
+		message_from = '919959225998',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:15:42',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 AP07Z0040 NZB',
+		message_from = '917013811955',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:37:54',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225958',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:39:00',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 Ts20z0115  khammam',
+		message_from = '917702399910',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:40:10',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = 'AM-TSRTCO',
+		message_from = '919032068334',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:41:46',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '229z3347surypeta',
+		message_from = '919032068334',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:47:19',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919032068334',
+		service_number = '8886638800',
+		message_time = '2017-03-22 03:51:22',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918247775880',
+		service_number = '8886638800',
+		message_time = '2017-03-22 11:23:57',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919848718179',
+		service_number = '8886638800',
+		message_time = '2017-03-23 10:48:54',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '',
+		message_from = '919666852945',
+		service_number = '8886638800',
+		message_time = '2017-03-23 10:49:10',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = 'x',
+		message_from = '917382858568',
+		service_number = '8886638800',
+		message_time = '2017-03-23 10:49:50',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919963663689',
+		service_number = '8886638800',
+		message_time = '2017-03-23 10:49:52',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382859545',
+		service_number = '8886638800',
+		message_time = '2017-03-23 10:50:34',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '919491531283',
+		service_number = '8886638800',
+		message_time = '2017-03-23 06:30:44',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '1 TS20Z0115 KHAMMAM',
+		message_from = '919491531283',
+		service_number = '8886638800',
+		message_time = '2017-03-23 06:32:28',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918328572760',
+		service_number = '8886638800',
+		message_time = '2017-03-24 10:04:32',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917981052761',
+		service_number = '8886638800',
+		message_time = '2017-03-24 10:49:01',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382858532',
+		service_number = '8886638800',
+		message_time = '2017-03-24 10:51:38',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 ts07z4008 24-03-17,14:30',
+		message_from = '919100033790',
+		service_number = '8886638800',
+		message_time = '2017-03-25 02:47:03',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 ts07z4008 24-03-17,14:30 25-03-17,15:00',
+		message_from = '919100033790',
+		service_number = '8886638800',
+		message_time = '2017-03-25 02:49:57',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 ts07z4008 busbhavan incident happened on 24-03-17,15:00',
+		message_from = '919100033790',
+		service_number = '8886638800',
+		message_time = '2017-03-25 03:49:02',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918074762393',
+		service_number = '8886638800',
+		message_time = '2017-03-26 04:29:44',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917386775034',
+		service_number = '8886638800',
+		message_time = '2017-03-27 10:12:17',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 ts07z4008 panjagutta 4:00 pm',
+		message_from = '917386775034',
+		service_number = '8886638800',
+		message_time = '2017-03-27 10:14:04',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '918247775880',
+		service_number = '8886638800',
+		message_time = '2017-03-27 12:14:27',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '2 Ts11Z0846 falaknuma',
+		message_from = '917382822513',
+		service_number = '8886638800',
+		message_time = '2017-04-04 10:37:50',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received
+insert into sms_messages SET
+		message = '?',
+		message_from = '917382822513',
+		service_number = '8886638800',
+		message_time = '2017-04-04 10:38:37',
+		smscinfo= '',
+		user_id = '4724' Response: Message Received

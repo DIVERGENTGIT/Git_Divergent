@@ -1,0 +1,146 @@
+ul{list-style-type:none;}
+.content_wrp{    margin-top: 50px;
+    padding: 40px;}
+	.content_h2{    background: #f5f5f5;
+    margin: 0px;color:#009BFA;
+    padding: 10px 15px;    font-size: 20px;}
+.content_bg01{background:#fff; padding: 25px 20px; 
+   width: 100%;
+    float: left;}
+	.content_bg02{ padding: 25px 20px; 
+   width: 100%;
+    float: left;}
+	.colr_clrf li{width:100%;float:left;    margin-bottom: 15px;}
+.colr_box{width: 25px;
+    height: 25px;
+    float: left;    margin-right: 15px;}
+	.colr_text{float: left;}
+.colrbx_01{background:#FF5A5E;}
+.colrbx_02{background:#5AD3D1;}
+.colrbx_03{background:#FFC870;}
+.colrbx_04{background:#3691ff;}
+.over_all_h3{    background: #f2f2f2;
+    padding: 11px 12px;
+    margin-bottom: 40px;color: #2a5f89;}
+.chart02 li, .chart li {
+	    width: 90%;
+    display: block;
+    height: 23px;
+    margin-top: 3px;
+    position: relative;}
+.chart02 li .bar, .chart li .bar {
+    background: #002E5C;
+    height: 100%;
+}
+.chart02 li:nth-child(1) .bar {
+    background: #5AD3D1;
+  }
+  .chart02 li:nth-child(2) .bar {
+    background: #FF5A5E;
+  }
+  .chart02 li:nth-child(3) .bar {
+    background: #FFC870;
+  }
+  .chart02 li:nth-child(4) .bar {
+    background: #009BFA;
+  }
+
+
+.chart li .bar, .chart li .bar {
+    background: #002E5C;
+    height: 100%;
+}
+.chart li:nth-child(1) .bar {
+    background:#009BFA ;
+  }
+  .chart li:nth-child(2) .bar {
+    background: #FF5A5E;
+  }
+  .chart li:nth-child(3) .bar {
+    background:#5AD3D1 ;
+  }
+  .chart li:nth-child(5) .bar {
+    background:#FFC870 ;
+  }
+.sb_heading{background:#f2f2f2;    padding: 10px 20px;    margin-bottom: 25px;}
+.location_wise{margin-bottom:30px;}
+.chart02 li:before, .chart li:before {
+    color: #fff;
+    content: attr(title);
+    left: 5px;
+    position: absolute;
+}
+.chart02 li .number, .chart li .number {
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 5px;
+    position: absolute;
+    top: 0px;
+}
+.chart_title li{height: 23px;margin-top: 3px;}
+.chart_title li .wise_title{color: black;
+    font-size: 15px;
+    font-weight: bold;}
+.canvasjs-chart-credit{display:none;}
+.amcharts-chart-div a{display:none !important;}
+.sour_sms{text-align:center;}
+.sms_source01{border-radius:50%;width:100px;height:100px;    display: block;
+    margin:20px auto 0px;}
+	.file_h4, .file_h3{color:#f0ad4e;}
+	.unic_h4, .unic_h3{color:#4CB1CF;}
+	.quksend_h4, .quksend_h3{color:#5cb85c;}
+	.cust_h4,  .cust_h3{color:#D65C4F;}
+     .file_border{border: 4px solid #f0ad4e;}
+	 .uni_border{border: 4px solid #4CB1CF;}
+	 .quksend_border{border: 4px solid #5cb85c;}
+	 .cust_border{border: 4px solid #D65C4F;}
+	.sms_source01 h4{margin-top:35px;}
+	.sour_sms_div h3{margin-top:0px;}
+	.sour_sms_div{background: #fff;padding: 15px 0px;    border: 1px solid #ccc;}
+	.tab-section h1{text-align:center;    margin: 30px 0px;color: #2a5f89;
+    font-size: 33px;
+    text-transform: uppercase;}
+	.current .sour_sms_div, .sour_sms_div:hover{background:#dee7ed;}
+	
+	.tab-section{width:100%;float:left;}
+	#chartdiv, #chartdiv2, #chartdiv3, #chartdivuni, #chartdivuni2, #chartdivuni3, #chartdivfile, #chartdivfile2, #chartdivfile3, #chartdivcust, #chartdivcust2, #chartdivcust3{ background: #fff;    margin-bottom: 40px;
+      }
+	.tab-section h2{
+    margin: 0px;
+    padding: 12px 10px;
+    font-size: 23px;color:#fff;}
+	#quicksend h2{background: #5cb85c;}
+	#unicode h2{background: #4CB1CF;}
+	#customize h2{background: #D65C4F;}
+	#file h2{background: #f0ad4e;}
+	.table_all tr {
+    border-width: 1px;
+    border-color: #edf0f2;
+}
+.table_all tr:nth-of-type(odd){background: #e8eef2;}
+.table_all th, .table_all td{padding:10px 20px;font-size:18px;}
+.recive_sms_dtpik input[type="text"]{width:36%;margin:0px 10px;padding: 5px;}
+.recive_sms_dtpik input[type="submit"]{border:0px;    background: #0067B3;
+    color: #fff;
+    padding: 3px 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    font-weight: bold;}
+	#basicExample{margin-bottom:30px;}
+.recive_sms_dtpik label{font-weight: bold;}
+.code_div{width:100%;float:left;}
+.table_recive{    width: 100%;
+    margin-top: 25px;
+    float: left;}
+.table_recive thead tr{background-color:#2a5f89 !important;
+    color: #fff;}
+.table_recive tr:nth-of-type(even){background: #e8eef2;}
+.table_recive th, .table_recive td{padding:10px 20px;font-size:18px;}
+.export_exel_bt{    background: #3691ff;
+    color: #fff;
+    padding: 10px 15px;
+    font-weight: bold;
+    border-radius: 3px;    float: right;}
+	.chage_code_bt{    font-size: 18px;
+    text-decoration: underline;}

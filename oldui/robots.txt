@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /smsstriker.com/application
+Disallow: /smsstriker.com/old
+Disallow: /smsstriker.com/newpages
+SITEMAP: http://www.smsstriker.com/sitemap.xml

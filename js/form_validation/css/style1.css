@@ -1,0 +1,50 @@
+.container {
+    width: 1160px;
+    margin: 100px auto;
+}
+
+.box {
+	height: 200px;
+	width: 200px;
+	float: left;
+	display: inline-block;
+	overflow: hidden;
+	margin-left: 41px;
+	margin-right: 40px;
+	margin-top: 43px;
+
+	border: 4px solid #e6e7e9;
+	background: #fff;
+	text-decoration: none;
+	color: #333;
+
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+
+.text {
+	width: 200px;
+	height: 200px;
+	display: table-cell;
+	vertical-align: middle;
+
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+	text-transform: uppercase;
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+	-o-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+}
+
+
+.clear::after {
+	content: '';
+	display: table;
+	clear: both;
+}

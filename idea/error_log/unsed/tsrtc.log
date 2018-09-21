@@ -1,0 +1,686 @@
+insert into sms_messages SET
+		message = '12 TSEX09 2727',
+		message_from = '9701019800',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'idea',
+		user_id = '4131'
+insert into sms_messages SET
+		message = 'F31 TS 09 EX 2020',
+		message_from = '970101xxxx',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = 'F31 TS 09 EX 2020',
+		message_from = '7799995025',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = 'F31 TS 09 EX 2020',
+		message_from = '7799995025',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TSEX09 2727',
+		message_from = '9701019800',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'idea',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TSEX09 2727',
+		message_from = '9701019800',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'idea',
+		user_id = '4131'
+insert into sms_messages SET
+		message = 'F31 TS 09 EX 2020',
+		message_from = '7799995025',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = 'F31 TS 09 EX 2020',
+		message_from = '7799995025',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = 'F31 TS 09 EX 2020',
+		message_from = '7799995025',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = 'F31 TS 09 EX 2020',
+		message_from = '7799995025',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = 'F31 TS 09 EX 2020',
+		message_from = '7799995025',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = 'F31 TS 09 EX 2020',
+		message_from = '7799995025',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = 'Test',
+		message_from = '919995881535',
+		service_number = '8886638800',
+		message_time = '2016-10-18 05:05:45',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = 'Hi',
+		message_from = '919848103017',
+		service_number = '8886638800',
+		message_time = '2016-10-18 05:09:37',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '1 07Z4008 Hitechcity',
+		message_from = '917799995025',
+		service_number = '8886638800',
+		message_time = '2016-10-18 05:30:52',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019800',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019800',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019800',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019800',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019800',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019800',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019800',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019800',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019800',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019800',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019800',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019800',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '1 07Z4008 Hitechcity',
+		message_from = '917799995025',
+		service_number = '8886638800',
+		message_time = '2016-10-18 06:01:38',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019811',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019811',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019811',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019811',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019811',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019811',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019811',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019811',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019811',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019811',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '12 TS 09 XA 5454',
+		message_from = '9701019800',
+		service_number = '8886638800',
+		message_time = '20--2016-10-18 17:09:35 ',
+		smscinfo= 'striker',
+		user_id = '4131'
+insert into sms_messages SET
+		message = 'F16 TS08 XA2727',
+		message_from = '918886638814',
+		service_number = '8886638800',
+		message_time = '2016-10-18 06:24:47',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '1 07Z4008 Hitechcity',
+		message_from = '919963528333',
+		service_number = '8886638800',
+		message_time = '2016-10-18 06:26:40',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '2 07Z4008 HYD',
+		message_from = '918886638814',
+		service_number = '8886638800',
+		message_time = '2016-10-18 06:27:12',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '1 07Z4008 Hitechcity5',
+		message_from = '917799995025',
+		service_number = '8886638800',
+		message_time = '2016-10-18 06:27:38',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '1 07Z4008 Hitechcity',
+		message_from = '919581479111',
+		service_number = '8886638800',
+		message_time = '2016-10-18 07:26:09',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '?',
+		message_from = '917799995025',
+		service_number = '8886638800',
+		message_time = '2016-10-19 10:01:35',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '2 10Z6494 Falaknuma',
+		message_from = '918297087872',
+		service_number = '8886638800',
+		message_time = '2016-10-19 11:27:45',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '1 07Z4008 Hitechcity5',
+		message_from = '917799995025',
+		service_number = '8886638800',
+		message_time = '2016-10-19 11:30:53',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '3 07z4008 Madhapur',
+		message_from = '918297087872',
+		service_number = '8886638800',
+		message_time = '2016-10-19 11:31:11',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '1 07Z4008 Hitechcity66',
+		message_from = '917799995025',
+		service_number = '8886638800',
+		message_time = '2016-10-19 11:53:07',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '1 07Z4008 Hitechcity77',
+		message_from = '917799995025',
+		service_number = '8886638800',
+		message_time = '2016-10-19 12:03:31',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '1 07Z4008 Hitechcity88',
+		message_from = '917799995025',
+		service_number = '8886638800',
+		message_time = '2016-10-19 12:16:14',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '1 07Z4008 Hitechcity99',
+		message_from = '917799995025',
+		service_number = '8886638800',
+		message_time = '2016-10-19 12:28:53',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '?',
+		message_from = '917799995025',
+		service_number = '8886638800',
+		message_time = '2016-10-19 12:30:10',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '3 07z4008 Gachibowli',
+		message_from = '918297087872',
+		service_number = '8886638800',
+		message_time = '2016-10-19 12:31:54',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2016-10-19 01:06:20',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '2 07z4008 Tolichowki',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2016-10-19 01:07:59',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '1 07Z4008 TOLI HYD',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2016-10-19 01:09:23',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '2 11z0846 FALAKNUMA',
+		message_from = '919959224429',
+		service_number = '8886638800',
+		message_time = '2016-10-19 04:55:25',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '2 07z4008 Rtc X roads',
+		message_from = '918297087872',
+		service_number = '8886638800',
+		message_time = '2016-10-19 04:55:38',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '2 07z4008 Madhapur',
+		message_from = '918297087872',
+		service_number = '8886638800',
+		message_time = '2016-10-19 05:46:54',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '2 07Z4008 TOLI HYDERABAD',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2016-11-16 03:48:43',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225229',
+		service_number = '8886638800',
+		message_time = '2016-11-19 11:13:56',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '2 16Z0024 Tolichowki',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2016-11-22 07:06:13',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '3 16Z0024 Tolichowki',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2016-11-22 07:06:09',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '2 16Z0024 Tolichowki',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2016-11-22 07:05:24',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '1 16Z0024 Tolichowki',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2016-11-22 07:06:23',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '3 16Z0024 tolichowki',
+		message_from = '918886638814',
+		service_number = '8886638800',
+		message_time = '2016-12-01 10:39:38',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = 'Hi',
+		message_from = '919848002578',
+		service_number = '8886638800',
+		message_time = '2016-12-01 10:39:38',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = 'Hi test',
+		message_from = '918886638811',
+		service_number = '8886638800',
+		message_time = '2016-12-01 10:45:45',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '3 16Z0024 tolichowki',
+		message_from = '918886638814',
+		service_number = '8886638800',
+		message_time = '2016-12-01 11:16:40',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '3 16Z0024 tolichowki',
+		message_from = '918886638814',
+		service_number = '8886638800',
+		message_time = '2016-12-01 11:40:41',
+		smscinfo= '',
+		user_id = '4131'
+insert into sms_messages SET
+		message = '3 16Z0024 tolichowki',
+		message_from = '918886638814',
+		service_number = '8886638800',
+		message_time = '2016-12-01 11:52:34',
+		smscinfo= '',
+		user_id = '4724'
+insert into sms_messages SET
+		message = '2 AP28Z3883 Gachibowli',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2016-12-06 11:59:18',
+		smscinfo= '',
+		user_id = '4724'
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225229',
+		service_number = '8886638800',
+		message_time = '2016-12-06 12:46:11',
+		smscinfo= '',
+		user_id = '4724'
+insert into sms_messages SET
+		message = 'Test',
+		message_from = '919959225229',
+		service_number = '8886638800',
+		message_time = '2016-12-06 01:15:27',
+		smscinfo= '',
+		user_id = '4724'
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225229',
+		service_number = '8886638800',
+		message_time = '2016-12-24 10:08:07',
+		smscinfo= '',
+		user_id = '4724'
+insert into sms_messages SET
+		message = '2 TS07Z4008 Gachi Hyd',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-09 05:00:55',
+		smscinfo= '',
+		user_id = '4724'
+insert into sms_messages SET
+		message = '2 07Z4008 Gachi Hyd',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-09 05:02:39',
+		smscinfo= '',
+		user_id = '4724'
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-12 03:21:04',
+		smscinfo= '',
+		user_id = '4724'
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-12 03:21:50',
+		smscinfo= '',
+		user_id = '4724'
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-12 03:29:40',
+		smscinfo= '',
+		user_id = '4724'
+insert into sms_messages SET
+		message = '2 AP28Z3883 Gachibowli',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-12 03:32:28',
+		smscinfo= '',
+		user_id = '4724'
+insert into sms_messages SET
+		message = '2 07Z4008 Gachi Hyd',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-12 03:32:42',
+		smscinfo= '',
+		user_id = '4724'
+insert into sms_messages SET
+		message = '?',
+		message_from = '970101xxxx',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= '',
+		user_id = '4724'
+insert into sms_messages SET
+		message = '?',
+		message_from = '970101xxxx',
+		service_number = '8886638800',
+		message_time = '20--2016-10-17 17:09:35 ',
+		smscinfo= '',
+		user_id = '4724'
+insert into sms_messages SET
+		message = '?',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-12 04:04:55',
+		smscinfo= '',
+		user_id = '4724'
+insert into sms_messages SET
+		message = '2 AP28Z3883 Gachibowli',
+		message_from = '919701019800',
+		service_number = '8886638800',
+		message_time = '2017-01-16 03:15:16',
+		smscinfo= '',
+		user_id = '4724'
+insert into sms_messages SET
+		message = '2 AP28Z3883 Gachibowli',
+		message_from = '918639151768',
+		service_number = '8886638800',
+		message_time = '2017-01-16 05:44:31',
+		smscinfo= '',
+		user_id = '4724'
+insert into sms_messages SET
+		message = '5 AP28Z3883 Gachibowli',
+		message_from = '919701019800',
+		service_number = '8886638800',
+		message_time = '2017-01-18 11:47:20',
+		smscinfo= '',
+		user_id = '4724'
+insert into sms_messages SET
+		message = '5 AP28Z3883 Gachibowli',
+		message_from = '919701019800',
+		service_number = '8886638800',
+		message_time = '2017-01-18 01:26:15',
+		smscinfo= '',
+		user_id = '4724' Response: 5 AP28Z3883 Gachibowli
+		
+
+insert into sms_messages SET
+		message = '1 AP28Z3883 Gachibowli',
+		message_from = '919701019800',
+		service_number = '8886638800',
+		message_time = '2017-01-18 01:28:20',
+		smscinfo= '',
+		user_id = '4724' Response: 1 AP28Z3883 Gachibowli
+		
+
+insert into sms_messages SET
+		message = '2 AP28Z4335 madhapur',
+		message_from = '918886638814',
+		service_number = '8886638800',
+		message_time = '2017-01-18 01:30:10',
+		smscinfo= '',
+		user_id = '4724' Response: 2 AP28Z4335 madhapur
+		
+
+insert into sms_messages SET
+		message = '1 07z4008 toli',
+		message_from = '919701019800',
+		service_number = '8886638800',
+		message_time = '2017-01-18 01:30:28',
+		smscinfo= '',
+		user_id = '4724' Response: 1 07z4008 toli
+		
+
+insert into sms_messages SET
+		message = '?',
+		message_from = '919959225229',
+		service_number = '8886638800',
+		message_time = '2017-01-19 08:36:42',
+		smscinfo= '',
+		user_id = '4724' Response: ?
+		
+
+insert into sms_messages SET
+		message = '2 28Z3883 Gachibowli',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-19 11:51:55',
+		smscinfo= '',
+		user_id = '4724' Response: 2 28Z3883 Gachibowli
+		
+
+insert into sms_messages SET
+		message = '1 07Z4008 Gachibowli',
+		message_from = '918978245656',
+		service_number = '8886638800',
+		message_time = '2017-01-19 11:52:17',
+		smscinfo= '',
+		user_id = '4724' Response: 1 07Z4008 Gachibowli
+		
+

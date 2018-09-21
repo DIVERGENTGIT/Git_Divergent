@@ -1,0 +1,478 @@
+<?php
+class index extends CI_Controller
+{
+	protected $_credits;
+	
+	public function __construct()
+	{
+		parent::__construct();
+		if($this->session->userdata('user_id')) {            
+        	$this->_userId = $this->session->userdata('user_id');
+        	$this->load->model('User_model');
+			$credits_rs = $this->User_model->getAvailableCredits($this->_userId);
+	        foreach ($credits_rs as $rs) {
+	        	$this->_credits = $rs->available_credits;
+$this->_data['shorturlCredits'] =  $rs->shorturl_credits;
+		$this->_data['isftpuser'] = $rs->is_ftp;
+	        }
+        }
+	}
+	
+	public function index()
+	{
+		$data['page_title'] = "Home";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);
+		//$this->load->view('/index_new/index');
+		redirect('error');
+		//redirect('index');
+		$this->load->view('/includes/footer');
+	} 
+	
+	public function aboutus()
+	{
+		$data['page_title'] = "AboutUs";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);
+		$this->load->view('/index/aboutus');
+		$this->load->view('/includes/footer');
+	}
+	
+	public function SMSServices()
+	{
+		$data['page_title'] = "Our Services";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);
+			redirect('/index_new/sms_service');
+		//$this->load->view('/index/our_services');
+		$this->load->view('/includes/footer');
+	}
+	
+	public function webDesign()
+	{
+		$data['page_title'] = "Web Design";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);
+		$this->load->view('/index/web_design');
+		$this->load->view('/includes/footer');
+	}
+	
+	public function webDevelopment()
+	{
+		$data['page_title'] = "Web Development";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);
+		$this->load->view('/index/web_development');
+		$this->load->view('/includes/footer');
+	}
+	
+	public function bulkSMS()
+	{		
+		$data['page_title'] = "Bulk SMS";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);
+		//$this->load->view('/index_new/bulksms');
+		redirect('sms_service');
+		//$this->load->view('/index/bulk_sms'); changed on 7th jan 2015
+
+		$this->load->view('/includes/footer');
+	}
+	
+	public function bulkEmail()
+	{
+		$data['page_title'] = "Bulk Email";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);
+		$this->load->view('index/bulk_email');
+		$this->load->view('/includes/footer');
+	}
+	
+	public function shortCode()
+	{
+		$data['page_title'] = "Short Code";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);
+		$this->load->view('index/short_code');
+		$this->load->view('/includes/footer');
+	}
+	
+	public function longCode()
+	{
+		$data['page_title'] = "Short Code";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);
+		$this->load->view('index/long_code');
+		$this->load->view('/includes/footer');
+	}
+	
+	public function smsAPI()
+	{
+		$data['page_title'] = "SMS API's";
+		
+		$data['page_title'] = "SMS Striker | Digital Communications and Marketing";
+		$data['page_meta_des'] = "SMS Striker is a leading provider of bulk sms, voice & digital marketing services for Fortune 500 companies, supporting in establishing brand in the market";
+		$data['page_meta_key'] = "sms, bulk sms, voice sms, bulk voice sms, digital marketing";
+		
+		$this->load->view('includes/header_new',$data);
+		$this->load->view('includes/menu_new');
+		$this->load->view('index/sms_api');
+		$this->load->view('/includes/footer_new');	
+		
+		redirect('smsapi');
+
+	
+	}
+	
+	public function twoWaySMS()
+	{
+		$data['page_title'] = "2-Way SMS";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);
+		$this->load->view('/index/two_way_sms');
+		$this->load->view('/includes/footer');
+	}
+	
+	public function customizedSMS()
+	{
+		$data['page_title'] = "Customized SMS";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);
+		redirect('sms-service');
+		//$this->load->view('/index/customized_sms');
+		$this->load->view('/includes/footer');	
+	}
+	
+	/*public function resellers()
+	{
+		$data['page_title'] = "Resellers";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);
+		$this->load->view('/index/resellers');
+		$this->load->view('/includes/footer');
+	}
+	*/
+	public function careers()
+	{
+		$data['page_title'] = "Careers";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);
+		$this->load->view('index/careers');
+		$this->load->view('/includes/footer');
+	}
+	public function codeotp()
+{
+
+	$data['page_title'] = "OTP";
+	$data['available_credits'] = $this->_credits;
+	$this->load->view('/includes/header',$data);
+	$this->load->view('index/codeotp');
+	$this->load->view('/includes/footer');
+	
+
+}
+
+	
+	public function webpay()
+	{	
+		
+		
+				$this->load->model('User_model');
+		
+		$profile=array();
+		$profile_data=$this->User_model->getUserDetails($this->_userId);
+		if($profile_data)
+     	{
+     		foreach($profile_data as $row)
+		    {
+		     	$profile['user_id']= $row->user_id;
+		     	$profile['username']=$row->username;
+		     	$profile['first_name']=$row->first_name;
+		     	$profile['last_name']=$row->last_name;
+		     	$profile['email']=$row->email;
+		     	$profile['mobile']=$row->mobile;
+		     	$profile['organization']=$row->organization;
+		     	$profile['address1']=$row->address1;
+		     	$profile['address2']=$row->address2;
+		     	$profile['city_id']=$row->city_id;
+		     	$profile['zipcode']=$row->zipcode;
+		    }
+     	}
+		
+		$data['page_title'] = "Billing Information";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);
+		$this->load->view('/index/webpay');
+		$this->load->view('/includes/footer');
+	}
+	
+	
+	public function contactUs()
+	{
+		$data['page_title'] = "Contact Us";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);	
+				redirect('contact');
+	
+		//$this->load->view('/index/contactus');
+		$this->load->view('/includes/footer');
+	}
+	
+	public function terms()
+	{
+		$data['page_title'] = "Terms And Conditions";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);		
+		$this->load->view('/index/terms_conditions');
+		$this->load->view('/includes/footer');
+	}
+	public function privacypolicy()
+	{
+		$data['page_title'] = "Terms And Conditions";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);		
+		$this->load->view('/index/privacypolicy');
+		$this->load->view('/includes/footer');
+	}	
+	public function bulksmspolicy()
+	{
+		$data['page_title'] = "Terms And Conditions";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);		
+		$this->load->view('/index/bulksmspolicy');
+		$this->load->view('/includes/footer');
+	}	
+	
+		public function priceList()
+	{
+		$data['page_title'] = "SMS Prices";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);
+		redirect('pricing');		
+		//$this->load->view('/index/price_list');
+		$this->load->view('/includes/footer');
+	}
+	
+	
+	/*
+	public function register()
+	{
+		$data['available_credits'] = 0;
+		$data['page_title'] = "Register";
+		if ($this->input->post('register')) {
+			$this->load->library('form_validation');			
+			if ($this->form_validation->run('register_form') == TRUE) {
+				$this->load->model('User_model');
+				if(!$this->User_model->usernameExist()) {
+					$this->User_model->register();
+					redirect('index/login');
+				} else {
+					$data['userExist'] = "User already exist with the same Username";
+				}
+					
+			}
+		}
+		$data['cities'] = array('' => '--select--', '1'=>'Bangalore', '2'=>'Calcutta', '3'=>'Chittor', '4'=>'Chennai', '5' => 'Delhi', '6' => 'Hyderabad', '7'=>'Guntur',
+								'8'=>'Gurgaon', '9'=>'Jaipur', '10'=>'Mumbai', '11'=>'Nagpur', '12'=>'Nalgonda', '13'=>'Nellore', '14'=>'Noida', '15'=>'Pune', '16'=>'Pondicherry', 
+								'17'=>'Vijayawada', '18'=>'Warangal','19'=>'Vizag','20'=>'Agartala','21'=>'Ahmedabad','22'=>'Aizawl','23'=>'Allahabad','24'=>'Bhopal','25'=>'Bhubaneshwar','26'=> 'Bilaspur','27'=>'Chandigarh','28'=>'Cuttack','29'=>'Dehradun','30'=>'Dispur','31'=>'Gandhinagar','32'=>'Gangtok','33'=>'Guwahati','34'=>'Imphal','35'=>'Itanagar','36'=>'Jabalpur','37'=>'Jodhpur','38'=>'Kochi','39'=>'Lucknow','40'=>'Nainital','41'=>'Panaji','42'=>'Patna','43'=>'Puducherry','44'=>'Raipur','45'=>'Ranchi','46'=>'Shillong','47'=>'Shimla','48'=>'Srinagar','49'=>'Thiruvananthapuram');
+		$data['states'] = array('' => '--seelct--', '1' => 'Arunachal Pradesh', '2' => 'Andhra Pradesh');
+		$data['countries'] = array('' => '--select--', '1' => 'INDIA');
+		$this->load->view('/includes/header',$data);
+		$this->load->view('/index/register');
+		$this->load->view('/includes/footer');
+	}
+	*/
+	public function login()
+	{   
+  		redirect('index.php/login');  
+		
+	}	
+	
+	public function thanku()
+	{
+		$this->load->view('thanku');	
+	}
+	
+	public function forgot()
+	{
+		$data['page_title'] = "Forgot Password";
+		if ($this->input->post('forgot_password')) {
+			$this->load->library('form_validation');
+			if ($this->form_validation->run('forgot_form') == TRUE) {
+				$this->load->model('User_model');
+				$rs = $this->User_model->usernameExist();
+				if($rs) {
+					foreach($rs as $result) {
+						$user_id = $result->user_id;
+						$email = $result->email;
+						$firstName = $result->first_name;
+						$username = $result->username;
+                        $mobile = $result->mobile;
+					}
+				
+					if($result->user_id!=647){
+					$new_password = rand(100000,999999);
+					
+					
+					$this->User_model->setNewPassword($user_id, $new_password);
+
+                    //send sms
+                    $sms_text = "Your SMS Striker's User Id : $username ,New Password is: $new_password. - Support, ".$_SERVER['SERVER_NAME'];
+                    $sms_url = "http://www.rkadvertisings.com/API/sms.php?username=support&password=Str!k3r2020&from=STRIKR&to=$mobile&msg=".urlencode($sms_text)."&type=1";
+					
+                    $ch = curl_init();
+                    curl_setopt($ch, CURLOPT_URL, $sms_url);
+                    curl_setopt($ch, CURLOPT_HEADER, 0);
+                    curl_exec($ch);
+                    curl_close($ch);
+					}
+                    //send email
+					$email_msg = "Dear {$firstName},<br><p>New Password has been Issued On your Request.</p>";
+					$email_msg .= "<h3> Login Details </h3><p>".$_SERVER['SERVER_NAME']."</p><p>Username : {$username} <br> New Password : {$new_password}</p>";
+					$email_msg .= "<p>Thanks,<br>Support Team</p>";
+					$subject = "New Password has been Issued";
+					$this->load->library('email');
+					$config['charset'] = 'iso-8859-1';
+					$config['wordwrap'] = TRUE;
+					$config['mailtype'] = 'html';
+					$this->email->initialize($config);
+					$this->email->smtp_host('smtp.sendgrid.net');                          
+				        $this->email->smtp_user('smsstriker');                          
+				        $this->email->smtp_pass('striker@123');                          
+				        $this->email->smtp_port(587); 
+					$this->email->from('support@smsstriker.com', 'Support Team');
+					$this->email->to($email);	
+					$this->email->subject($subject);
+					$this->email->message($email_msg);
+					$this->email->send();
+					redirect('index/forgot/issued/'.base64_encode($email));
+				} else {
+					$data['not_exist'] = "Specified Username Not Exist";
+				}
+			}
+			
+		} 
+		if($this->uri->segment(3))
+		{
+			$email = base64_decode($this->uri->segment(4));
+			$data['issued'] = "New Password Has Been Sent To Your Mail Address <a> {$email} </a>";
+		}
+		$this->load->view('/includes/header',$data);
+redirect('login');
+		//$this->load->view('/index/forgot');
+		$this->load->view('/includes/footer');
+	}
+	
+	public function logout()
+	{
+		$this->session->sess_destroy();
+
+		redirect('http://10.10.10.199/smsstriker/login.html');
+		
+		//redirect('http://www.smsstriker.com/login.html');
+		
+	}	
+	
+	
+	
+	
+	
+	public function voice()
+	{
+		$data['is_bloked'] = false;
+		$data['invalid'] = false;
+		$data['page_title'] = "Welcome RK Advertisings :: Voice Services";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);
+		if($this->session->userdata('user_id')) { 
+			$this->load->view('/includes/menu');
+		}
+		$this->load->view('voice');
+		$this->load->view('/includes/footer');
+	}
+	
+	public function pricing()
+	{
+		$data['is_bloked'] = false;
+		$data['invalid'] = false;
+		$data['page_title'] = "Welcome RK Advertisings :: Pricing";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);
+		if($this->session->userdata('user_id')) { 
+			$this->load->view('/includes/menu');
+		}
+		$this->load->view('pricing');
+		$this->load->view('/includes/footer');
+	}
+	
+	
+	
+	public function ourClients()
+	{
+		$data['is_bloked'] = false;
+		$data['invalid'] = false;
+		$data['page_title'] = "Welcome RK Advertisings :: Our Clients";
+		$data['available_credits'] = $this->_credits;
+		$this->load->view('/includes/header',$data);
+		if($this->session->userdata('user_id')) { 
+			$this->load->view('/includes/menu');
+		}
+		$this->load->view('our_clients');
+		$this->load->view('/includes/footer');
+	}
+	
+	
+	
+	public function complaintBox()
+	{
+        if(!$this->session->userdata('user_id')) {
+            redirect('index/login');
+        }
+
+		$data['page_title'] = "Complaint Box";
+		$data['available_credits'] = $this->_credits;
+		
+		if($this->uri->segment(3) == "thankyou") {
+			$data['msg'] = "Thank you for contacting support Team, will contact you with in 24 hours";
+		}
+		
+		if ($this->input->post('submit')) {
+			
+			$this->load->library('form_validation');
+			if ($this->form_validation->run('complaint_form') == TRUE) {
+				
+				$complaint_type = $this->input->post('issue_type');
+				$number = $this->input->post('contact_number');
+				$title = $this->input->post('title');
+				$text = $this->input->post('complaint_text');
+				
+				$email_msg = "
+				    <p>UserName: ".$this->session->userdata('username')."</p>
+				    <p>To: {$complaint_type} </p>
+					<p>From: {$number} </p>
+					<p>Title: ".$title." </p>
+					<p align='justify'> ".$text."</p>";
+				
+				$subject = "For: ".$complaint_type." - ".$title;
+				$this->load->library('email');
+				$config['charset'] = 'iso-8859-1';
+				$config['wordwrap'] = TRUE;
+				$config['mailtype'] = 'html';
+				$this->email->initialize($config);
+				$this->email->from('complaints@smsstriker.com', 'Complaint box');
+				$this->email->to(array('bharath@smsstriker.com','pasula.naveenkumar@gmail.com','susheel@smsstriker.in'));
+				$this->email->subject($subject);
+				$this->email->message($email_msg);
+				$this->email->send();
+				redirect('index/complaintBox/thankyou');				
+			}	
+		}
+		
+		$this->load->view('/includes/header',$data);		
+		$this->load->view('/index/complaint_box');
+		$this->load->view('/includes/footer');		
+		
+	}
+	
+
+	
+}
